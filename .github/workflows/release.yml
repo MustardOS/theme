@@ -15,13 +15,7 @@ jobs:
 
       - name: Zip directories
         run: |
-          find . -mindepth 1 -type d ! -name ".*" -exec bash -c 'cd "$1" && zip -qq -r "../${1##*/}.zip" *' _ {} \;
-
-      - name: Upload zip files as artifacts
-        uses: actions/upload-artifact@v2
-        with:
-          name: releases
-          path: ./*.zip
+          mkdir release && find . -mindepth 1 -type d ! -name ".*" -exec bash -c 'cd "$1" && zip -qq -r "../release/${1##*/}.zip" *' _ {} \;
 
       - name: Delete releases
         uses: sgpublic/delete-release-action@v1.1
@@ -51,7 +45,7 @@ jobs:
           prerelease: false
           replacesArtifacts: false
           omitNameDuringUpdate: true
-          artifacts: "releases/*"
+          artifacts: "release/*"
           token: ${{ secrets.GITHUB_TOKEN }}
           repo: ${{ steps.env.outputs.RELEASE_REPO }}
           owner: ${{ steps.env.outputs.RELEASE_ORG }}
@@ -68,10 +62,6 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           repo: ${{ steps.env.outputs.RELEASE_REPO }}
           owner: ${{ steps.env.outputs.RELEASE_ORG }}
-
-      - name: Check Free Space
-        run: |
-          df -h
 
       - name: Release Info
         id: info
