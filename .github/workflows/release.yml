@@ -33,13 +33,19 @@ jobs:
           name: releases
           path: ./*.zip
 
-      - name: Delete existing release
-        uses: ncipollo/release-action@v1
+      - name: Delete releases
+        uses: sgpublic/delete-release-action@v1.1
         with:
-          tag: latest
-          token: ${{ secrets.GITHUB_TOKEN }}
-          repo: ${{ steps.env.outputs.RELEASE_REPO }}
-          owner: ${{ steps.env.outputs.RELEASE_ORG }}
+          release-drop: true
+          release-keep-count: -1
+          release-drop-tag: true
+          pre-release-drop: true
+          pre-release-keep-count: -1
+          pre-release-drop-tag: true
+          draft-drop: true
+          draft-drop-count: -1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Get release name for artifacts
         id: date
