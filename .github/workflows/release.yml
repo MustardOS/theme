@@ -17,6 +17,10 @@ jobs:
         run: |
           mkdir -p /tmp/release && find . -mindepth 1 -type d ! -name ".*" -exec bash -c 'cd "$1" && if [ "$(ls -A)" ]; then zip -qq -r "/tmp/release/${1##*/}.zip" *; fi' _ {} \;
 
+      - name: List archives
+        run: |
+          ls -1 /tmp/release
+
       - name: Delete releases
         uses: sgpublic/delete-release-action@v1.1
         with:
@@ -47,8 +51,6 @@ jobs:
           omitNameDuringUpdate: true
           artifacts: "/tmp/release/*"
           token: ${{ secrets.GITHUB_TOKEN }}
-          repo: ${{ steps.env.outputs.RELEASE_REPO }}
-          owner: ${{ steps.env.outputs.RELEASE_ORG }}
 
       - name: Publish Release
         uses: ncipollo/release-action@v1
@@ -60,8 +62,6 @@ jobs:
           draft: false
           prerelease: false
           token: ${{ secrets.GITHUB_TOKEN }}
-          repo: ${{ steps.env.outputs.RELEASE_REPO }}
-          owner: ${{ steps.env.outputs.RELEASE_ORG }}
 
       - name: Release Info
         id: info
