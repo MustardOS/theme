@@ -15,7 +15,7 @@ jobs:
 
       - name: Zip directories
         run: |
-          mkdir release && find . -mindepth 1 -type d ! -name ".*" -exec bash -c 'cd "$1" && zip -qq -r "../release/${1##*/}.zip" *' _ {} \;
+          mkdir -p /tmp/release && find . -mindepth 1 -type d ! -name ".*" -exec bash -c 'cd "$1" && if [ "$(ls -A)" ]; then zip -qq -r "/tmp/release/${1##*/}.zip" *; fi' _ {} \;
 
       - name: Delete releases
         uses: sgpublic/delete-release-action@v1.1
@@ -45,7 +45,7 @@ jobs:
           prerelease: false
           replacesArtifacts: false
           omitNameDuringUpdate: true
-          artifacts: "release/*"
+          artifacts: "/tmp/release/*"
           token: ${{ secrets.GITHUB_TOKEN }}
           repo: ${{ steps.env.outputs.RELEASE_REPO }}
           owner: ${{ steps.env.outputs.RELEASE_ORG }}
