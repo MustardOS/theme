@@ -1,0 +1,83 @@
+name: muOS Theme Release
+
+on:
+  workflow_dispatch:
+
+concurrency: 
+  group: release
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: List theme directories
+        run: |
+          THEME_DIRS=$(find . -maxdepth 1 -type d ! -name .)
+          THEME_DIRS=$(echo "$THEME_DIRS" | sed 's/^\.\///')
+          echo "::set-output name=theme_dirs::$THEME_DIRS"
+
+      - name: Package Themes
+        run: |
+          for dir in ${{ steps.list_theme_dirs.outputs.theme_dirs }}
+          do
+              zip -r "${dir}.zip" "$dir"/*
+          done
+
+      - name: Upload zip files as artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: releases
+          path: ./*.zip
+
+      - name: Delete existing release
+        uses: ncipollo/release-action@v1
+        with:
+          tag: latest
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repo: ${{ steps.env.outputs.RELEASE_REPO }}
+          owner: ${{ steps.env.outputs.RELEASE_ORG }}
+
+      - name: Get release name for artifacts
+        id: date
+        run: |
+            echo "date=$(date +'%Y-%m-%d_%H%M')" >> $GITHUB_OUTPUT
+
+      - name: Prepare Release
+        uses: ncipollo/release-action@v1
+        with:
+          tag: "${{steps.date.outputs.date}}"
+          allowUpdates: true
+          draft: true
+          prerelease: false
+          replacesArtifacts: false
+          omitNameDuringUpdate: true
+          artifacts: "releases/*"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repo: ${{ steps.env.outputs.RELEASE_REPO }}
+          owner: ${{ steps.env.outputs.RELEASE_ORG }}
+
+      - name: Publish Release
+        uses: ncipollo/release-action@v1
+        with:
+          tag: "${{steps.date.outputs.date}}"
+          omitBodyDuringUpdate: true
+          omitNameDuringUpdate: true
+          allowUpdates: true
+          draft: false
+          prerelease: false
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repo: ${{ steps.env.outputs.RELEASE_REPO }}
+          owner: ${{ steps.env.outputs.RELEASE_ORG }}
+
+      - name: Check Free Space
+        run: |
+          df -h
+
+      - name: Release Info
+        id: info
+        run: |
+          echo "Published themes: ${{steps.date.outputs.date}} to: https://github.com/${{ steps.env.outputs.RELEASE_ORG}}/${{ steps.env.outputs.RELEASE_REPO}}"
