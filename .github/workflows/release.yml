@@ -15,7 +15,7 @@ jobs:
 
       - name: Zip directories
         run: |
-          mkdir -p /tmp/release && find . -mindepth 1 -type d ! -name ".*" -exec bash -c 'cd "$1" && if [ "$(ls -A)" ]; then zip -qq -r "/tmp/release/${1##*/}.zip" *; fi' _ {} \;
+          mkdir -p /tmp/release && for dir in */; do dir_name="${dir%/}"; (cd "$dir_name" && zip -qq -r "/tmp/release/${dir_name}.zip" *); done
 
       - name: List archives
         run: |
