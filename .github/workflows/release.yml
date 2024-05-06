@@ -15,7 +15,7 @@ jobs:
 
       - name: Zip directories
         run: |
-          mkdir -p /tmp/release && for dir in */ !'*/preview'; do dir_name="${dir%/}"; (cd "$dir_name" && zip -qq -r "/tmp/release/${dir_name}.zip" *); done
+          mkdir -p /tmp/release && for dir in */; do dir_name="${dir%/}"; (cd "$dir_name" && zip -qq -r "/tmp/release/${dir_name}.zip" *); done
 
       - name: List archives
         run: |
