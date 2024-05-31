@@ -1,0 +1,4 @@
+created by Sadchocobo for MuOS BEANS
+
+inspiration from Concise Dark Teal Theme for Onion OS
+but with my personal tastes added in to work with MuOS
