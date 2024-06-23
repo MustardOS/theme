@@ -1,2 +1,1 @@
-Font and sound files are from the muDS theme created by VagueParade, using some sprites from UnBurn's 'DS XS' Onion OS Theme.
-The rest created by DukeSilver.
+by: DukeSilver (original: UnBurn)

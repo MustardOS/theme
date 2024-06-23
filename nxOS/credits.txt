@@ -1,2 +1,1 @@
-Credits: ciskao
-Inpired by Alekfull NX theme for Batocera
+by: ciskao (original: Alekfull)

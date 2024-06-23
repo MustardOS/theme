@@ -1,3 +1,1 @@
-Created By: Voxie :@
-Based on https://github.com/folke/tokyonight.nvim
-
+by: Voxie (original: folke)
