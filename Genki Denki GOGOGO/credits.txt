@@ -1,10 +1,1 @@
-Created by Cerceis.
-Generated from muOS Theme Maker.
-Contributes by:
-┎┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨❈୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┒
-
-            jupy <3 
-            Cerceis ◝(⁰▿⁰)◜
-
-┖┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨❈୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┚
-Make your own theme at: https://theme.muos.dev/create
+by: Cerceis - with muOS Theme Maker

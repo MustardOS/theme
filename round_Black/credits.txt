@@ -1,2 +1,1 @@
-Credits: d0npian0
-Inpired by sharp theme for OnionOS
+by: d0npian0 (original: m_axic)
