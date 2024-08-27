@@ -1,0 +1,116 @@
+name: Theme Table and Scripts Generate
+
+on: workflow_dispatch
+
+concurrency: 
+  group: release
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+      repository-projects: write
+    steps:
+
+      - name: Checkout repo
+        uses: actions/checkout@v4
+# Here's some info! So firstly, the theme table. First text files are generated with the theme table content, with images and credits
+# in each cell. This includes the preview folder, so we create a temporary credits file before deleting the preview cell.
+# There is no need to create a temporary preview/preview.png file as the images are referred to as linked images directly from the preview folder.
+      - name: Create temporary credits file
+        run: |
+          echo preview > "preview/credits.txt"
+ # This is a huge step... it generates individual text files named after the directory, with a mostly correctly formatted cell within the table.         
+      - name: Generate text file with all directory names, with directory name inside
+        run: |
+          mkdir -p /tmp/page && for dir in */; do dir_name="${dir%/}"; (cd "${dir_name}" && echo "| ![${dir_name}](<https://raw.githubusercontent.com/MustardOS/theme/main/preview/${dir_name}.png>) <br>[${dir_name}" > "/tmp/page/${dir_name}.txt" && echo -n "](https://github.com/MustardOS/theme/releases/latest/download/${dir_name}.zip)<br><sup>" | tr [:space:] "." >> "/tmp/page/${dir_name}.txt"); cat "${dir_name}/credits.txt" >> "/tmp/page/${dir_name}.txt"; (cd "${dir_name}" && echo "</sup>" >> "/tmp/page/${dir_name}.txt"); done
+ # Next we format the text files to only be one line.       
+      - name: Replace line breaks with space
+        run: |
+          mkdir -p /tmp/txt && for dir in */; do dir_name="${dir%/}"; tr "\n" " " < "/tmp/page/${dir_name}.txt" > "/tmp/txt/${dir_name}.txt"; done
+
+      - name: Ensure all line breaks are now deleted
+        run: |
+          for dir in */; do dir_name="${dir%/}"; tr -d "\n\r" < "/tmp/txt/${dir_name}.txt" > "/tmp/page/${dir_name}.txt"; done
+# We remove the preview text file as it is no longer needed. We do not want this directory's contents to show in a single cell on the table.
+      - name: Delete placeholder preview text file
+        run: |
+          rm /tmp/page/preview.txt
+
+      - name: Delete placeholder preview text file
+        run: |
+          rm /tmp/txt/preview.txt
+# We do this to easily sort the theme cells in each row to be alphabetical by capitalising all the file names.
+# This will help to ignore if the original theme was lower or uppercase.
+      - name: make all file names uppercase
+        run: |
+          cd /tmp/page && for f in *; do mv -- "$f" "$(tr [:lower:] [:upper:] <<< "$f")" ; done
+
+      - name: Add enter at end of every file
+        run: |
+          for file in /tmp/page/*; do sed -i -e '$a\' "$file"; done
+# We combine to begin creating the working table.          
+      - name: Combine the files
+        run: |
+          cat /tmp/page/* > /tmp/page/complet.txt
+# There we go, the table is made with three themes per row!
+      - name: Format into three per line
+        run: |
+          paste -d ' ' - - - < /tmp/page/complet.txt > /tmp/page/complete.txt
+
+      - name: Delete placeholder text file
+        run: |
+          rm /tmp/page/complet.txt
+# Prepare to replace the old README and themesite files.
+      - name: Delete old theme site
+        run: |
+          rm themesite.md
+
+      - name: Delete old README
+        run: |
+          rm README.md
+ # Finishing touches to the table...         
+      - name: Insert | at end of every line
+        run: |
+          sed -i "s/$/ |/" /tmp/page/complete.txt
+          
+      - name: Test to see if this has worked
+        run: |
+          more "/tmp/page/complete.txt"    
+# Add the info above the table and the empty top rows to define how the table is aligned.
+      - name: Merge with the theme template
+        run: |
+          cat ".github/md_templates/themepagetemplate.md" /tmp/page/complete.txt > /tmp/themesite.md
+
+      - name: Merge with the readme template
+        run: |
+          cat ".github/md_templates/readmetemplate.md" /tmp/page/complete.txt > /tmp/readme.md
+
+      - name: See if this worked?
+        run: |
+          more "/tmp/themesite.md" 
+
+      - name: See if this worked?
+        run: |
+          more "/tmp/readme.md" 
+# Commit this later...
+      - name: Move file to correct location
+        run: |
+          cp "/tmp/themesite.md" "themesite.md"
+
+      - name: Move file to correct location
+        run: |
+          cp "/tmp/readme.md" "README.md"
+
+# And committing it all!
+      - name: Push files to the github, replacing the previous
+        run: |
+          git config --global user.name "VagueParade"
+          git config --global user.email "166325657+VagueParade@users.noreply.github.com"
+
+          git add -A
+          git commit -m "Action with generated files"
+          git push
+          
