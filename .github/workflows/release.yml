@@ -21,15 +21,15 @@ jobs:
 # Create theme archives here! Zipping everything together and creating a complete theme archive.
       - name: Zip directories
         run: |
-          mkdir -p /tmp/release/mnt/mmc/MUOS/theme && for dir in */; do dir_name="${dir%/}"; (cd "$dir_name" && zip -qq -r "/tmp/release/mnt/mmc/MUOS/theme/${dir_name}.zip" *); done
+          mkdir -p /tmp/release/run/muos/storage/theme && for dir in */; do dir_name="${dir%/}"; (cd "$dir_name" && zip -qq -r "/tmp/release/run/muos/storage/theme/${dir_name}.zip" *); done
 # Delete this zip as it is not wanted as a zipping theme.
       - name: Delete preview zip
         run: |
-          rm /tmp/release/mnt/mmc/MUOS/theme/preview.zip
+          rm /tmp/release/run/muos/storage/theme/preview.zip
 # Add preview image folder to show it off in the Theme Picker.
       - name: Add preview folder to complete archive
         run: |
-          mv preview /tmp/release/mnt/mmc/MUOS/theme
+          mv preview /tmp/release/run/muos/storage/theme
 # Create the archive!          
       - name: Zip mnt folder
         run: |
@@ -37,11 +37,11 @@ jobs:
 
       - name: Create individual archive managers
         run: |
-          for dir in */; do dir_name="${dir%/}"; (cd /tmp/release && zip -r "${dir_name}.zip" . -i "/mnt/mmc/MUOS/theme/${dir_name}.zip"); done
+          for dir in */; do dir_name="${dir%/}"; (cd /tmp/release && zip -r "${dir_name}.zip" . -i "/run/muos/storage/theme/${dir_name}.zip"); done
      
       - name: Insert preview images in the individual archives
         run: |
-          for dir in */; do dir_name="${dir%/}"; (cd /tmp/release && zip -r "${dir_name}.zip" . -i "/mnt/mmc/MUOS/theme/preview/${dir_name}.png"); done
+          for dir in */; do dir_name="${dir%/}"; (cd /tmp/release && zip -r "${dir_name}.zip" . -i "/run/muos/storage/theme/preview/${dir_name}.png"); done
      
       - name: List archives
         run: |
