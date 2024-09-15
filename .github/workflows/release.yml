@@ -33,7 +33,7 @@ jobs:
 # Create the archive!          
       - name: Zip mnt folder
         run: |
-          (cd /tmp/release && zip -r @_Complete_Theme_Archive.zip mnt)
+          (cd /tmp/release && zip -r @_Complete_Theme_Archive.zip run)
 
       - name: Create individual archive managers
         run: |
