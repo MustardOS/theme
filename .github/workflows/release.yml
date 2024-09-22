@@ -21,15 +21,16 @@ jobs:
 # Create theme archives here! Zipping everything together and creating a complete theme archive.
       - name: Zip directories
         run: |
-          mkdir -p /tmp/release/run/muos/storage/theme && for dir in */; do dir_name="${dir%/}"; (cd "$dir_name" && zip -qq -r "/tmp/release/run/muos/storage/theme/${dir_name}.zip" *); done
+          mkdir -p /tmp/release/run/muos/storage/theme && for dir in */; do dir_name="${dir%/}"; (cd "$dir_name" && zip -qq -r "/tmp/release/${dir_name}.zip" *); done
+
+      - name: Copy zips to complete archive zip format
+        run: |
+          cp -a /tmp/release/*.zip /tmp/release/run/muos/storage/theme/
+          
 # Create the archive!          
-      - name: Zip mnt folder
+      - name: Zip complete folder
         run: |
           (cd /tmp/release && zip -r @_Complete_Theme_Archive.zip run)
-
-      - name: Create individual archive managers
-        run: |
-          for dir in */; do dir_name="${dir%/}"; (cd /tmp/release && zip -r "${dir_name}.zip" . -i "/run/muos/storage/theme/${dir_name}.zip"); done
      
       - name: List archives
         run: |
@@ -57,7 +58,7 @@ jobs:
       - name: Prepare Release
         uses: ncipollo/release-action@v1.14.0
         with:
-          name: "All Themes - Archive Manager"
+          name: "All Themes"
           tag: "${{steps.date.outputs.date}}"
           allowUpdates: true
           draft: true
@@ -70,7 +71,7 @@ jobs:
       - name: Publish Release
         uses: ncipollo/release-action@v1.14.0
         with:
-          name: "All Themes - Archive Manager"
+          name: "All Themes"
           tag: "${{steps.date.outputs.date}}"
           omitBodyDuringUpdate: true
           omitNameDuringUpdate: true
