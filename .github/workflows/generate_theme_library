@@ -1,4 +1,4 @@
-name: Theme Table and Scripts Generate
+name: Theme Table Generate
 
 on: workflow_dispatch
 
@@ -17,15 +17,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 # Here's some info! So firstly, the theme table. First text files are generated with the theme table content, with images and credits
-# in each cell. This includes the preview folder, so we create a temporary credits file before deleting the preview cell.
-# There is no need to create a temporary preview/preview.png file as the images are referred to as linked images directly from the preview folder.
-      - name: Create temporary credits file
-        run: |
-          echo preview > "preview/credits.txt"
+# in each cell. 
  # This is a huge step... it generates individual text files named after the directory, with a mostly correctly formatted cell within the table.         
       - name: Generate text file with all directory names, with directory name inside
         run: |
-          mkdir -p /tmp/page && for dir in */; do dir_name="${dir%/}"; (cd "${dir_name}" && echo "| ![${dir_name}](<https://raw.githubusercontent.com/MustardOS/theme/main/preview/${dir_name}.png>) <br>[${dir_name}" > "/tmp/page/${dir_name}.txt" && echo -n "](https://github.com/MustardOS/theme/releases/latest/download/${dir_name}.zip)<br><sup>" | tr [:space:] "." >> "/tmp/page/${dir_name}.txt"); cat "${dir_name}/credits.txt" >> "/tmp/page/${dir_name}.txt"; (cd "${dir_name}" && echo "</sup>" >> "/tmp/page/${dir_name}.txt"); done
+          mkdir -p /tmp/page && for dir in */; do dir_name="${dir%/}"; (cd "${dir_name}" && echo "| ![${dir_name}](<https://raw.githubusercontent.com/MustardOS/theme/main/${dir_name}/preview.png>) <br>[${dir_name}" > "/tmp/page/${dir_name}.txt" && echo -n "](https://github.com/MustardOS/theme/releases/latest/download/${dir_name}.zip)<br><sup>" | tr [:space:] "." >> "/tmp/page/${dir_name}.txt"); cat "${dir_name}/credits.txt" >> "/tmp/page/${dir_name}.txt"; (cd "${dir_name}" && echo "</sup>" >> "/tmp/page/${dir_name}.txt"); done
  # Next we format the text files to only be one line.       
       - name: Replace line breaks with space
         run: |
@@ -34,14 +30,6 @@ jobs:
       - name: Ensure all line breaks are now deleted
         run: |
           for dir in */; do dir_name="${dir%/}"; tr -d "\n\r" < "/tmp/txt/${dir_name}.txt" > "/tmp/page/${dir_name}.txt"; done
-# We remove the preview text file as it is no longer needed. We do not want this directory's contents to show in a single cell on the table.
-      - name: Delete placeholder preview text file
-        run: |
-          rm /tmp/page/preview.txt
-
-      - name: Delete placeholder preview text file
-        run: |
-          rm /tmp/txt/preview.txt
 # We do this to easily sort the theme cells in each row to be alphabetical by capitalising all the file names.
 # This will help to ignore if the original theme was lower or uppercase.
       - name: make all file names uppercase
