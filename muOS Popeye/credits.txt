@@ -1,4 +1,1 @@
-Theme design by KingLJN
-ASCII font: ABeeZee by Anja Meiners, licensed under OFL-1.1
-ZH-HANS font: Noto Sans SC by Adobe, licensed under OFL-1.1
-Visual: Popeye animated cartoons, owned by Turner Entertainment or in the Public Domain
+by: KingLJN
