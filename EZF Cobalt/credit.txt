@@ -1,0 +1,13 @@
+Theme: EZF Cobalt (v2.01)
+By: tiduscrying
+Based on the Carbon Fiber Cobalt theme for EZ Flash IV
+Font - Deja Vu Mono
+Icons - Gnome Icons 2.20 mixed with Tango2
+
+Changes:
+- Redid main page graphics & gradients to be gentler, fit with the color scheme better
+- Redid file explorer pages to be easier to read (hopefully)
+- Shrunk category icons
+- Re-converted DejaVu Mono font to include special glyphs (Pokemon "e")
+- Updated some names to match Refried update
+- Fixed redundant "Favorites"/"Favourites" description
