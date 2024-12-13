@@ -1,5 +1,5 @@
-mode=4
+mode=2
 color=24
 combo=1
-brightness=4
+brightness=3
 speed=2

@@ -1,0 +1,5 @@
+mode=8
+color=5
+combo=1
+brightness=7
+speed=2
