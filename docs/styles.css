@@ -1,0 +1,88 @@
+:root {
+    --primary-color: #c7af26; /* Set default primary color */
+    --background-color: #1f1f1f;
+    --text-color: #ffffff;
+    --filter-button-hover: #4a4a4a;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+/* Title Block */
+.title-block {
+    background-color: var(--primary-color);
+    color: #fff;
+    text-align: center;
+    padding: 50px 20px;
+    margin-bottom: 20px;
+}
+
+.title-block h1 {
+    font-size: 4rem;
+    margin: 0;
+    font-weight: bold;
+}
+
+header {
+    background-color: var(--primary-color);
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+button.filter-btn {
+    background-color: var(--primary-color);
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button.filter-btn:hover {
+    background-color: var(--filter-button-hover);
+}
+
+.portfolio {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.portfolio-item {
+    background-color: #4a4a4a;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.portfolio-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.portfolio-item h3 {
+    margin-top: 10px;
+    color: var(--text-color);
+}
+
+.portfolio-item:hover {
+    transform: translateY(-10px);
+}

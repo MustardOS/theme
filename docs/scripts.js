@@ -1,0 +1,39 @@
+document.addEventListener('DOMContentLoaded', function() {
+    const filterButtons = document.querySelectorAll('.filter-btn');
+    const portfolioItems = document.querySelectorAll('.portfolio-item');
+
+    filterButtons.forEach(button => {
+        button.addEventListener('click', function() {
+            const filterCategory = this.getAttribute('data-filter');
+
+            // Reset theme colors based on the category
+            if (filterCategory === 'all') {
+                document.documentElement.style.setProperty('--primary-color', '#c7af26');
+            } else if (filterCategory === 'RG28XX') {
+                document.documentElement.style.setProperty('--primary-color', '#ba5a31');
+            } else if (filterCategory === 'RG34XX') {
+                document.documentElement.style.setProperty('--primary-color', '#7cafc4');
+            } else if (filterCategory === 'RG35XX') {
+                document.documentElement.style.setProperty('--primary-color', '#243e36');    
+            } else if (filterCategory === 'RG40XX') {
+                document.documentElement.style.setProperty('--primary-color', '#9e778f');
+            } else if (filterCategory === 'RGCUBEXX') {
+                document.documentElement.style.setProperty('--primary-color', '#243e36');
+            } else if (filterCategory === 'Legacy') {
+                document.documentElement.style.setProperty('--primary-color', '#c7af26');        
+            } else {
+                document.documentElement.style.setProperty('--primary-color', '#c7af26'); // Default color
+            }
+
+            // Show or hide portfolio items based on the selected filter
+            portfolioItems.forEach(item => {
+                const category = item.getAttribute('data-category');
+                if (filterCategory === 'all' || category === filterCategory) {
+                    item.style.display = 'block';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        });
+    });
+});
