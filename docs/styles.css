@@ -86,3 +86,20 @@ button.filter-btn:hover {
 .portfolio-item:hover {
     transform: translateY(-10px);
 }
+
+.top-right-btn {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            padding: 10px 20px;
+            background-color: #4a4a4a;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        .top-right-btn:hover {
+            background-color: #45a049;
+        }
