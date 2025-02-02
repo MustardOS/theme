@@ -1,0 +1,6 @@
+Game: Mario Kart 8 Deluxe
+Subject: Fonts
+Copyright: Nintendo
+Sprite Ripper: Random Talking Bush
+Hosting Permissions: The Spriters Resource
+Notes: Yes, these do have some differences compared to the Wii U ones.
