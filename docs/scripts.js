@@ -27,8 +27,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // Show or hide portfolio items based on the selected filter
             portfolioItems.forEach(item => {
-                const category = item.getAttribute('data-category');
-                if (filterCategory === 'all' || category === filterCategory) {
+                const categories = item.getAttribute('data-category').split(' '); // Get the categories as an array
+                if (filterCategory === 'all' || categories.includes(filterCategory)) {
                     item.style.display = 'block';
                 } else {
                     item.style.display = 'none';

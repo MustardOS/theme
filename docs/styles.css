@@ -103,3 +103,13 @@ button.filter-btn:hover {
         .top-right-btn:hover {
             background-color: #45a049;
         }
+
+a {
+    text-decoration: none; 
+    color: inherit; 
+}
+
+a:hover {
+    text-decoration: none; 
+    color: inherit; 
+}
