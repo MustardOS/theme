@@ -18,7 +18,11 @@ document.addEventListener('DOMContentLoaded', function() {
             } else if (filterCategory === 'RG40XX') {
                 document.documentElement.style.setProperty('--primary-color', '#9e778f');
             } else if (filterCategory === 'RGCUBEXX') {
-                document.documentElement.style.setProperty('--primary-color', '#243e36');
+                document.documentElement.style.setProperty('--primary-color', '#870058');
+            } else if (filterCategory === 'TrimUIBrick') {
+                document.documentElement.style.setProperty('--primary-color', '#F25F5C');
+            } else if (filterCategory === 'TrimUISmartPro') {
+                document.documentElement.style.setProperty('--primary-color', '#243e36');        
             } else if (filterCategory === 'Legacy') {
                 document.documentElement.style.setProperty('--primary-color', '#c7af26');        
             } else {

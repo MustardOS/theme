@@ -13,7 +13,6 @@ body {
     color: var(--text-color);
 }
 
-/* Title Block */
 .title-block {
     background-color: var(--primary-color);
     color: #fff;
