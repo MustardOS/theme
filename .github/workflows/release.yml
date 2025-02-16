@@ -21,7 +21,15 @@ jobs:
 # Create theme archives here! Zipping everything together and creating a complete theme archive.
       - name: Zip Legacy directories
         run: |
-          mkdir -p /tmp/release/run/muos/storage/theme && for dir in LegacyThemes/*/; do dir_name="${dir%/}"; (cd "$dir_name" && zip -qq -r "/tmp/release/${dir_name}.zip" *); done
+          mkdir -p /tmp/release/run/muos/storage/theme
+          for dir in LegacyThemes/*/; do
+            [ -d "$dir" ] || continue
+            zip_name=$(basename "$dir")
+            zip_path="/tmp/release/${zip_name}.zip"
+            echo "Zipping contents of $dir into $zip_path"
+            
+            (cd "$dir" && zip -qq -r "$zip_path" ./*)
+          done
 
       - name: Copy zips to complete archive zip format
         run: |
