@@ -19,9 +19,9 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 # Create theme archives here! Zipping everything together and creating a complete theme archive.
-      - name: Zip directories
+      - name: Zip Legacy directories
         run: |
-          mkdir -p /tmp/release/run/muos/storage/theme && for dir in */; do dir_name="${dir%/}"; (cd "$dir_name" && zip -qq -r "/tmp/release/${dir_name}.zip" *); done
+          mkdir -p /tmp/release/run/muos/storage/theme && for dir in */LegacyThemes/; do dir_name="${dir%/}"; (cd "$dir_name" && zip -qq -r "/tmp/release/${dir_name}.zip" *); done
 
       - name: Copy zips to complete archive zip format
         run: |
