@@ -21,7 +21,6 @@ jobs:
 # Create theme archives here! Zipping everything together and creating a complete theme archive.
       - name: Zip Legacy directories
         run: |
-          mkdir -p /tmp/release/theme
           for dir in 2502.0_Pixie/*/; do
             [ -d "$dir" ] || continue
             zip_name=$(basename "$dir")
@@ -30,16 +29,8 @@ jobs:
             
             (cd "$dir" && zip -qq -r "$zip_path" ./*)
           done
-
-      - name: Copy zips to complete archive zip format
-        run: |
-          cp -a /tmp/release/*.muxthm /tmp/release/theme/
           
 # Create the archive!          
-      - name: Zip complete folder
-        run: |
-          (cd /tmp/release && zip -r @_Complete_Theme_Archive.muxzip theme)
-     
       - name: List archives
         run: |
           ls -1 /tmp/release
@@ -73,7 +64,7 @@ jobs:
           prerelease: false
           replacesArtifacts: false
           omitNameDuringUpdate: true
-          artifacts: "/tmp/release/*"
+          artifacts: "/tmp/release/*.muxthm"
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish Release
