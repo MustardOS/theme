@@ -38,7 +38,7 @@ jobs:
 # Create the archive!          
       - name: Zip complete folder
         run: |
-          (cd /tmp/release && zip -r @_Complete_Theme_Archive.muxzip run)
+          (cd /tmp/release && zip -r @_Complete_Theme_Archive.muxzip theme)
      
       - name: List archives
         run: |
