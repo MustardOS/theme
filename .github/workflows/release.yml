@@ -21,11 +21,11 @@ jobs:
 # Create theme archives here! Zipping everything together and creating a complete theme archive.
       - name: Zip Legacy directories
         run: |
-          mkdir -p /tmp/release/run/muos/storage/theme
-          for dir in LegacyThemes/*/; do
+          mkdir -p /tmp/release/theme
+          for dir in 2502.0_Pixie/*/; do
             [ -d "$dir" ] || continue
             zip_name=$(basename "$dir")
-            zip_path="/tmp/release/${zip_name}.zip"
+            zip_path="/tmp/release/${zip_name}.muxthm"
             echo "Zipping contents of $dir into $zip_path"
             
             (cd "$dir" && zip -qq -r "$zip_path" ./*)
@@ -33,12 +33,12 @@ jobs:
 
       - name: Copy zips to complete archive zip format
         run: |
-          cp -a /tmp/release/*.zip /tmp/release/run/muos/storage/theme/
+          cp -a /tmp/release/*.muxthm /tmp/release/theme/
           
 # Create the archive!          
       - name: Zip complete folder
         run: |
-          (cd /tmp/release && zip -r @_Complete_Theme_Archive.zip run)
+          (cd /tmp/release && zip -r @_Complete_Theme_Archive.muxzip run)
      
       - name: List archives
         run: |
