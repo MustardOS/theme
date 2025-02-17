@@ -21,6 +21,7 @@ jobs:
 # Create theme archives here! Zipping everything together and creating a complete theme archive.
       - name: Zip Legacy directories
         run: |
+          mkdir -p /tmp/release
           for dir in 2502.0_Pixie/*/; do
             [ -d "$dir" ] || continue
             zip_name=$(basename "$dir")
