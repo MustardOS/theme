@@ -32,10 +32,12 @@ document.addEventListener('DOMContentLoaded', function() {
             // Show or hide portfolio items based on the selected filter
             portfolioItems.forEach(item => {
                 const categories = item.getAttribute('data-category').split(' '); // Get the categories as an array
+                const parentItem = item.closest('a'); // Find the parent <a> element
+
                 if (filterCategory === 'all' || categories.includes(filterCategory)) {
-                    item.style.display = 'block';
+                    parentItem.style.display = 'block';
                 } else {
-                    item.style.display = 'none';
+                    parentItem.style.display = 'none';
                 }
             });
         });
