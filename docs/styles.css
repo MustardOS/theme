@@ -33,6 +33,10 @@ header {
     text-align: center;
 }
 
+h5 {
+    margin-bottom: 0;
+}
+
 nav ul {
     list-style: none;
     padding: 0;
@@ -61,18 +65,17 @@ button.filter-btn:hover {
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 20px;
     padding: 20px;
-    align-items: stretch;
+    
 }
 
 .portfolio a {
-    display: flex;
-    flex-direction: column;
-    height: 100%;
+    margin: 10px 0;
 }
 
 .portfolio-item {
     background-color: #4a4a4a;
     padding: 20px;
+    padding-bottom: 0px;
     border-radius: 8px;
     text-align: center;
     transition: transform 0.3s ease;
