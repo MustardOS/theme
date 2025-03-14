@@ -61,6 +61,13 @@ button.filter-btn:hover {
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 20px;
     padding: 20px;
+    align-items: stretch;
+}
+
+.portfolio a {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
 }
 
 .portfolio-item {
@@ -69,6 +76,7 @@ button.filter-btn:hover {
     border-radius: 8px;
     text-align: center;
     transition: transform 0.3s ease;
+    height: 100%;
 }
 
 .portfolio-item img {
