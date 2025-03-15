@@ -1,0 +1,1 @@
+/opt/muos/device/current/script/led_control.sh 1 75 136 192 208 136 192 208
