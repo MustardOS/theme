@@ -1,3 +1,1 @@
-#!/bin/sh
-. /opt/muos/script/var/func.sh
-/opt/muos/device/"$(GET_VAR "device" "board/name")"/script/led_control.sh 6 25 10
+/opt/muos/device/current/script/led_control.sh 1 80 255 0 0 255 0 0
