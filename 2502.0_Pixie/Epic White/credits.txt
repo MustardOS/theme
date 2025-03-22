@@ -1,1 +1,4 @@
-by: Mntz (original: c64-dev & Chicuelo)
+This is inspired by the Epic Noir theme, originally by c64-dev & Chicuelo.
+All images are created fresh to fit muOS and it contains a nice suitable home screen.
+
+By: Mntz
