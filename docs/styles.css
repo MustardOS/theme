@@ -2,7 +2,8 @@
     --primary-color: #c7af26; /* Set default primary color */
     --background-color: #1f1f1f;
     --text-color: #ffffff;
-    --filter-button-hover: #4a4a4a;
+    --filter-button-hover: #6a6a6a;
+    --filter-button-applied: #4a4a4a;
 }
 
 body {
@@ -58,6 +59,10 @@ button.filter-btn {
 
 button.filter-btn:hover {
     background-color: var(--filter-button-hover);
+}
+
+button.filter-btn.applied {
+    background-color: var(--filter-button-applied);
 }
 
 .portfolio {
