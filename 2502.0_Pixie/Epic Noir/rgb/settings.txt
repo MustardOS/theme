@@ -1,5 +1,5 @@
 mode=2
-color=1
+color=7
 combo=1
 brightness=3
 speed=2
