@@ -1,45 +1,55 @@
 document.addEventListener('DOMContentLoaded', function() {
     const filterButtons = document.querySelectorAll('.filter-btn');
     const portfolioItems = document.querySelectorAll('.portfolio-item');
+    
+    // Primary colors corresponding to each filter category
+    const filterColors = {
+        'all': '#c7af26',
+        'RG28XX': '#ba5a31',
+        'RG34XX': '#7cafc4',
+        'RG35XX': '#243e36',
+        'RG40XX': '#9e778f',
+        'RGCUBEXX': '#870058',
+        'TrimUIBrick': '#F25F5C',
+        'TrimUISmartPro': '#243e36',
+        'Legacy': '#c7af26'
+    };
 
+    // Updates the UI to reflect the filter category set in the URL
+    function updateUI() {
+        // Get filter category from URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const filterCategory = urlParams.get('filter') ?? 'all';
+
+        // Reset theme colors
+        const color = filterColors[filterCategory];
+        document.documentElement.style.setProperty('--primary-color', color);
+
+        // Show or hide portfolio items
+        portfolioItems.forEach(item => {
+            const categories = item.getAttribute('data-category').split(' '); // Get the categories as an array
+            const parentItem = item.closest('a'); // Find the parent <a> element
+            const isVisible = filterCategory === 'all' || categories.includes(filterCategory);
+            parentItem.style.display = isVisible ? 'block' : 'none';
+        });
+
+        // Update filter button styles
+        filterButtons.forEach(button => {
+            const buttonFilter = button.getAttribute('data-filter');
+            button.classList.toggle('applied', buttonFilter === filterCategory);
+        });
+    }
+
+    // Update URL + UI when button is clicked
     filterButtons.forEach(button => {
         button.addEventListener('click', function() {
-            const filterCategory = this.getAttribute('data-filter');
-
-            // Reset theme colors based on the category
-            if (filterCategory === 'all') {
-                document.documentElement.style.setProperty('--primary-color', '#c7af26');
-            } else if (filterCategory === 'RG28XX') {
-                document.documentElement.style.setProperty('--primary-color', '#ba5a31');
-            } else if (filterCategory === 'RG34XX') {
-                document.documentElement.style.setProperty('--primary-color', '#7cafc4');
-            } else if (filterCategory === 'RG35XX') {
-                document.documentElement.style.setProperty('--primary-color', '#243e36');    
-            } else if (filterCategory === 'RG40XX') {
-                document.documentElement.style.setProperty('--primary-color', '#9e778f');
-            } else if (filterCategory === 'RGCUBEXX') {
-                document.documentElement.style.setProperty('--primary-color', '#870058');
-            } else if (filterCategory === 'TrimUIBrick') {
-                document.documentElement.style.setProperty('--primary-color', '#F25F5C');
-            } else if (filterCategory === 'TrimUISmartPro') {
-                document.documentElement.style.setProperty('--primary-color', '#243e36');        
-            } else if (filterCategory === 'Legacy') {
-                document.documentElement.style.setProperty('--primary-color', '#c7af26');        
-            } else {
-                document.documentElement.style.setProperty('--primary-color', '#c7af26'); // Default color
-            }
-
-            // Show or hide portfolio items based on the selected filter
-            portfolioItems.forEach(item => {
-                const categories = item.getAttribute('data-category').split(' '); // Get the categories as an array
-                const parentItem = item.closest('a'); // Find the parent <a> element
-
-                if (filterCategory === 'all' || categories.includes(filterCategory)) {
-                    parentItem.style.display = 'block';
-                } else {
-                    parentItem.style.display = 'none';
-                }
-            });
+            const url = new URL(window.location);
+            url.searchParams.set("filter", this.getAttribute('data-filter'));
+            window.history.replaceState(null, '', url);
+            updateUI();
         });
     });
+    
+    // Update UI on initial page load
+    updateUI();
 });
