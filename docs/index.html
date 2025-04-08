@@ -13,27 +13,39 @@
         <h1>MustardOS Themes</h1>
     </header>
 
-        <a href="https://forms.office.com/r/CiYbDP1SVJ">
-            <button class="top-right-btn">Submit a Theme</button>
-        </a>
+    <a href="https://forms.office.com/r/CiYbDP1SVJ">
+        <button class="top-right-btn">Submit a Theme</button>
+    </a>
 
-    <header>
-        <nav>
-            <ul>
-                <li><button class="filter-btn" data-filter="all">All</button></li>
-                <li><button class="filter-btn" data-filter="RG28XX">RG28XX</button></li>
-                <li><button class="filter-btn" data-filter="RG34XX">RG34XX</button></li>
-                <li><button class="filter-btn" data-filter="RG35XX">RG35XX</button></li>
-                <li><button class="filter-btn" data-filter="RG40XX">RG40XX</button></li>
-                <li><button class="filter-btn" data-filter="RGCUBEXX">RGCUBEXX</button></li>
-                <li><button class="filter-btn" data-filter="TrimUIBrick">TrimUI Brick</button></li>
-                <li><button class="filter-btn" data-filter="TrimUISmartPro">TrimUI Smart Pro</button></li>
-                <li><button class="filter-btn" data-filter="Grid">Grid Mode</button></li>
-                <li><button class="filter-btn" data-filter="HDMI">HDMI</button></li>
-                <li><button class="filter-btn" data-filter="Language">Language</button></li>
-                <li><button class="filter-btn" data-filter="Legacy">Legacy</button></li>
-            </ul>
-        </nav>
+    <header id="filters">
+        <label for="device-filter">
+            Device
+            <select id="device-filter" class="filter" name="device-filter">
+                <option value="all">All</option>
+                <option value="RG28XX">RG28XX</option>
+                <option value="RG34XX">RG34XX</option>
+                <option value="RG35XX">RG35XX</option>
+                <option value="RG40XX">RG40XX</option>
+                <option value="RGCUBEXX">RGCUBEXX</option>
+                <option value="TrimUIBrick">TrimUI Brick</option>
+                <option value="TrimUISmartPro">TrimUI Smart Pro</option>
+            </select>
+        </label>
+
+        <label for="grid-filter" title="Supports grid layout">
+            Grid
+            <input type="checkbox" id="grid-filter" class="filter" name="grid" value="Grid">
+        </label>
+
+        <label for="hdmi-filter" title="Adapts well for HDMI output resolutions">
+            HDMI
+            <input type="checkbox" id="hdmi-filter" class="filter" name="hdmi" value="HDMI">
+        </label>
+
+        <label for="language-filter" title="Improved support for multiple languages">
+            Language
+            <input type="checkbox" id="language-filter" class="filter" name="language" value="Language">
+        </label>
     </header>
 
     <!-- Portfolio Grid -->
