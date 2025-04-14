@@ -2,8 +2,8 @@
     --primary-color: #c7af26; /* Set default primary color */
     --background-color: #1f1f1f;
     --text-color: #ffffff;
-    --filter-button-hover: #6a6a6a;
-    --filter-button-applied: #4a4a4a;
+    --filter-control-background: color-mix(in srgb, var(--primary-color), black 20%);
+    --filter-control-hover: color-mix(in srgb, var(--primary-color), black 40%);
 }
 
 body {
@@ -28,41 +28,72 @@ body {
     font-weight: bold;
 }
 
+h5 {
+    margin-bottom: 0;
+}
+
 header {
     background-color: var(--primary-color);
     padding: 20px;
     text-align: center;
 }
 
-h5 {
-    margin-bottom: 0;
+header#filters {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
 }
 
-nav ul {
-    list-style: none;
-    padding: 0;
+.filter {
+    background-color: var(--filter-control-background);
+    transition: background-color 0.3s ease;
 }
 
-nav ul li {
-    display: inline;
-    margin: 0 15px;
+.filter:hover {
+    background-color: var(--filter-control-hover);
 }
 
-button.filter-btn {
-    background-color: var(--primary-color);
-    color: #fff;
+select#device-filter {
+    appearance: none;
+    color: var(--text-color);
     border: none;
-    padding: 10px 20px;
-    cursor: pointer;
+    padding: 4px 32px 4px 16px;
+    border-radius: 6px;
     font-size: 16px;
+    cursor: pointer;
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23ffffff" width="24px" height="24px"><path d="M7 10l5 5 5-5z" stroke="%23ffffff" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></svg>');
+    background-repeat: no-repeat;
+    background-position: right 10px center;
 }
 
-button.filter-btn:hover {
-    background-color: var(--filter-button-hover);
+label {
+    display: inline-flex;
+    align-items: center;
+    font-size: 16px;
+    gap: 6px;
+    color: var(--text-color);
+    cursor: pointer;
 }
 
-button.filter-btn.applied {
-    background-color: var(--filter-button-applied);
+input[type="checkbox"] {
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    position: relative;
+}
+
+input[type="checkbox"]:checked::after {
+    content: '\2713';
+    color: var(--text-color);
+    font-size: 16px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .portfolio {
@@ -103,21 +134,21 @@ button.filter-btn.applied {
 }
 
 .top-right-btn {
-            position: absolute;
-            top: 10px;
-            right: 10px;
-            padding: 10px 20px;
-            background-color: #4a4a4a;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            font-size: 16px;
-            cursor: pointer;
-        }
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 10px 20px;
+    background-color: #4a4a4a;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
 
-        .top-right-btn:hover {
-            background-color: #45a049;
-        }
+.top-right-btn:hover {
+    background-color: #45a049;
+}
 
 a {
     text-decoration: none; 
