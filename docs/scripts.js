@@ -5,6 +5,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const gridFilterCheckbox = document.getElementById('grid-filter');
     const languageFilterCheckbox = document.getElementById('language-filter');
     const portfolioItems = document.querySelectorAll('.portfolio-item');
+    const portfolioItemsContainer = document.querySelector('.portfolio');
+    const randomiseButton = document.getElementById('randomiser');
 
     // Updates the UI to reflect the URL query params
     function updateUI() {
@@ -46,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // Update URL & UI when filters are changed
+    // Update URL & UI when user interactions occur
     deviceFilterMenu.addEventListener('change', function() {
         setQueryParam(queryParams.device, this.value);
         updateUI();
@@ -62,6 +64,12 @@ document.addEventListener('DOMContentLoaded', function() {
     languageFilterCheckbox.addEventListener('change', function() {
         setQueryParam(queryParams.language, this.checked);
         updateUI();
+    });
+    randomiseButton.addEventListener('click', function() {
+        const items = Array.from(portfolioItemsContainer.children);
+        const shuffledItems = items.sort(() => Math.random() - 0.5);
+        portfolioItemsContainer.innerHTML = '';
+        shuffledItems.forEach(item => portfolioItemsContainer.appendChild(item));
     });
 
     // Update UI on initial page load
