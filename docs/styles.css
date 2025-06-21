@@ -58,6 +58,11 @@ header#filters {
     background-color: var(--filter-control-hover);
 }
 
+.checkbox-group {
+    display: flex;
+    gap: 20px;
+}
+
 select#device-filter {
     appearance: none;
     border: none;
@@ -95,6 +100,19 @@ button#randomiser {
     border: none;
     padding: 4px 8px 4px 8px;
     border-radius: 6px;
+}
+
+input[type="text"] {
+    border: none;
+    padding: 4px 16px;
+    border-radius: 6px;
+    max-width: 120px;
+}
+
+/* For cross-browser consistency (Safari looks a bit odd otherwise) */
+input[type="text"]::placeholder {
+    color: var(--text-color);
+    opacity: 0.55;
 }
 
 .filter:active {
