@@ -18,34 +18,38 @@
     </a>
 
     <header id="filters">
-        <label for="device-filter">
-            Device
-            <select id="device-filter" class="filter" name="device-filter">
-                <option value="all">All</option>
-                <option value="RG28XX">RG28XX</option>
-                <option value="RG34XX">RG34XX</option>
-                <option value="RG35XX">RG35XX</option>
-                <option value="RG40XX">RG40XX</option>
-                <option value="RGCUBEXX">RGCUBEXX</option>
-                <option value="TrimUIBrick">TrimUI Brick</option>
-                <option value="TrimUISmartPro">TrimUI Smart Pro</option>
-            </select>
+        <select id="device-filter" class="filter" name="device-filter" aria-label="Filter by device type">
+            <option value="all">All devices</option>
+            <option value="RG28XX">RG28XX</option>
+            <option value="RG34XX">RG34XX</option>
+            <option value="RG35XX">RG35XX</option>
+            <option value="RG40XX">RG40XX</option>
+            <option value="RGCUBEXX">RGCUBEXX</option>
+            <option value="TrimUIBrick">TrimUI Brick</option>
+            <option value="TrimUISmartPro">TrimUI Smart Pro</option>
+        </select>
+
+        <label for="search-filter">
+            <input type="text" id="search-filter" class="filter" name="search" placeholder="Search" />
         </label>
 
-        <label for="grid-filter" title="Supports grid layout">
-            Grid
-            <input type="checkbox" id="grid-filter" class="filter" name="grid" value="Grid">
-        </label>
+        <!-- So the checkboxes wrap as a group instead of individually -->
+        <div class="checkbox-group">
+            <label for="grid-filter" title="Supports grid layout">
+                Grid
+                <input type="checkbox" id="grid-filter" class="filter" name="grid" value="Grid">
+            </label>
 
-        <label for="hdmi-filter" title="Adapts well for HDMI output resolutions">
-            HDMI
-            <input type="checkbox" id="hdmi-filter" class="filter" name="hdmi" value="HDMI">
-        </label>
+            <label for="hdmi-filter" title="Adapts well for HDMI output resolutions">
+                HDMI
+                <input type="checkbox" id="hdmi-filter" class="filter" name="hdmi" value="HDMI">
+            </label>
 
-        <label for="language-filter" title="Improved support for multiple languages">
-            Language
-            <input type="checkbox" id="language-filter" class="filter" name="language" value="Language">
-        </label>
+            <label for="language-filter" title="Improved support for multiple languages">
+                Language
+                <input type="checkbox" id="language-filter" class="filter" name="language" value="Language">
+            </label>
+        </div>
 
         <button id="randomiser" class="filter" title="Shuffle the order of themes">
             I'm feeling lucky

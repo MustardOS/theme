@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const portfolioItems = document.querySelectorAll('.portfolio-item');
     const portfolioItemsContainer = document.querySelector('.portfolio');
     const randomiseButton = document.getElementById('randomiser');
+    const searchFilterInput = document.getElementById('search-filter');
 
     // Updates the UI to reflect the URL query params
     function updateUI() {
@@ -15,12 +16,14 @@ document.addEventListener('DOMContentLoaded', function() {
         const isHdmiFilterEnabled = getQueryParm(queryParams.hdmi) === 'true';
         const isGridFilterEnabled = getQueryParm(queryParams.grid) === 'true';
         const isLanguageFilterEnabled = getQueryParm(queryParams.language) === 'true';
+        const searchFilter = getQueryParm(queryParams.search)?.trim() ?? '';
 
         // Update filter UI
         deviceFilterMenu.value = deviceFilter;
         hdmiFilterCheckbox.checked = isHdmiFilterEnabled;
         gridFilterCheckbox.checked = isGridFilterEnabled;
         languageFilterCheckbox.checked = isLanguageFilterEnabled;
+        searchFilterInput.value = searchFilter;
 
         // Update page color scheme
         const color = primaryColors[deviceFilter];
@@ -30,17 +33,20 @@ document.addEventListener('DOMContentLoaded', function() {
         portfolioItems.forEach(item => {
             // E.g. "RG35XX RG40XX HDMI Grid"
             const categories = item.getAttribute('data-category').split(' ');
+            const itemText = item.textContent;
             
             const isMatchingDeviceFilter = deviceFilter === 'all' || categories.includes(deviceFilter);
             const isMatchingHdmiFilter = !isHdmiFilterEnabled || categories.includes('HDMI');
             const isMatchingGridFilter = !isGridFilterEnabled || categories.includes('Grid');
             const isMatchingLanguageFilter = !isLanguageFilterEnabled || categories.includes('Language');
+            const isMatchingSearchFilter = searchFilter.length === 0 || itemText.toLowerCase().includes(searchFilter.toLowerCase());
             
             const isMatchingAllFilters =
                 isMatchingDeviceFilter &&
                 isMatchingHdmiFilter &&
                 isMatchingGridFilter &&
-                isMatchingLanguageFilter;
+                isMatchingLanguageFilter &&
+                isMatchingSearchFilter;
             
             // Only show items that match all filters
             const parentItem = item.closest('a');
@@ -71,6 +77,10 @@ document.addEventListener('DOMContentLoaded', function() {
         portfolioItemsContainer.innerHTML = '';
         shuffledItems.forEach(item => portfolioItemsContainer.appendChild(item));
     });
+    searchFilterInput.addEventListener('input', function() {
+        setQueryParam(queryParams.search, this.value);
+        updateUI();
+    });
 
     // Update UI on initial page load
     updateUI();
@@ -93,7 +103,8 @@ const queryParams = {
     device: 'device',
     hdmi: 'hdmi',
     grid: 'grid',
-    language: 'language'
+    language: 'language',
+    search: 'search'
 }
 
 const primaryColors = {
