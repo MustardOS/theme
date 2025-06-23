@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const isHdmiFilterEnabled = getQueryParm(queryParams.hdmi) === 'true';
         const isGridFilterEnabled = getQueryParm(queryParams.grid) === 'true';
         const isLanguageFilterEnabled = getQueryParm(queryParams.language) === 'true';
-        const searchFilter = getQueryParm(queryParams.search)?.trim() ?? '';
+        const searchFilter = getQueryParm(queryParams.search) ?? '';
 
         // Update filter UI
         deviceFilterMenu.value = deviceFilter;
