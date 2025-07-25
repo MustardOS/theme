@@ -17,6 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const isGridFilterEnabled = getQueryParm(queryParams.grid) === 'true';
         const isLanguageFilterEnabled = getQueryParm(queryParams.language) === 'true';
         const searchFilter = getQueryParm(queryParams.search) ?? '';
+        const groupIdQuery = getQueryParm(queryParams.groupid) ?? '';
 
         // Update filter UI
         deviceFilterMenu.value = deviceFilter;
@@ -33,6 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
         portfolioItems.forEach(item => {
             // E.g. "RG35XX RG40XX HDMI Grid"
             const categories = item.getAttribute('data-category').split(' ');
+            const groupid = item.getAttribute('data-groupid') ?? '';
             const itemText = item.textContent;
             
             const isMatchingDeviceFilter = deviceFilter === 'all' || categories.includes(deviceFilter);
@@ -40,13 +42,15 @@ document.addEventListener('DOMContentLoaded', function() {
             const isMatchingGridFilter = !isGridFilterEnabled || categories.includes('Grid');
             const isMatchingLanguageFilter = !isLanguageFilterEnabled || categories.includes('Language');
             const isMatchingSearchFilter = searchFilter.length === 0 || itemText.toLowerCase().includes(searchFilter.toLowerCase());
+            const isMatchingGroupIDFilter = groupIdQuery === groupid || (groupIdQuery === '' && groupid === '');
             
             const isMatchingAllFilters =
                 isMatchingDeviceFilter &&
                 isMatchingHdmiFilter &&
                 isMatchingGridFilter &&
                 isMatchingLanguageFilter &&
-                isMatchingSearchFilter;
+                isMatchingSearchFilter &&
+                isMatchingGroupIDFilter;
             
             // Only show items that match all filters
             const parentItem = item.closest('a');
@@ -104,7 +108,8 @@ const queryParams = {
     hdmi: 'hdmi',
     grid: 'grid',
     language: 'language',
-    search: 'search'
+    search: 'search',
+    groupid: 'groupid'
 }
 
 const primaryColors = {
