@@ -2928,6 +2928,18 @@
     "language": false
   },
   {
+    "name": "muOS Monochrome",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.Monochrome.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": false,
+    "resolution720x720": false,
+    "resolution1024x768": false,
+    "resolution1280x720": false,
+    "grid": false,
+    "hdmi": false,
+    "language": true
+  },
+  {
     "name": "MuOS Nord",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/MuOS.Nord.muxthm",
     "resolution640x480": true,
