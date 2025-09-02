@@ -22,7 +22,7 @@ jobs:
       - name: Zip Legacy directories
         run: |
           mkdir -p /tmp/release
-          for dir in 2502.0_Pixie/*/; do
+          for dir in 2508.0_Goose/*/; do
             [ -d "$dir" ] || continue
             zip_name=$(basename "$dir")
             zip_path="/tmp/release/${zip_name}.muxthm"
