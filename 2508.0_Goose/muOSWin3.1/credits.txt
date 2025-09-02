@@ -1,0 +1,12 @@
+muOSWin3.1 v1.0 - smartazz104
+for muOS PIXIE
+
+Font:
+https://fontstruct.com/fontstructions/show/2096359/ms-sans-serif-1-1
+
+Screens/Icons:
+https://www.pcjs.org/software/pcx86/sys/windows/3.10/
+
+Icons:
+https://www.deviantart.com/satellitedish555/art/Windows-3-1-Icon-Pack-1019293019
+https://archive.org/details/win3_ICONRMBR

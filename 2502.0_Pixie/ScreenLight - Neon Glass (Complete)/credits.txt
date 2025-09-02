@@ -1,4 +1,0 @@
-by: screenlight 
-(youtube.com/screenlight)
-
-a big thanks to @roasty for help with the HDMI support & integration of the alternate theme picker feature

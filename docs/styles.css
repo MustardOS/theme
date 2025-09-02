@@ -63,6 +63,7 @@ header#filters {
     gap: 20px;
 }
 
+select#version-filter,
 select#device-filter {
     appearance: none;
     border: none;
