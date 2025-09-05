@@ -70,8 +70,7 @@ jobs:
 
             # Otherwise delete it
             echo "Deleting release: $tag  $name"
-            # gh release delete "$tag" -y
-            # git push origin :refs/tags/"$tag" || true  # delete the tag too
+            gh release delete "$tag" -y
           done
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
