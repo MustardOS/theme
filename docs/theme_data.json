@@ -2820,6 +2820,18 @@
     "language": false
   },
   {
+    "name": "MuGB",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/MuGB.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": false,
+    "resolution1280x720": false,
+    "grid": true,
+    "hdmi": true,
+    "language": true
+  },
+  {
     "name": "muLCARS",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/muLCARS.muxthm",
     "resolution640x480": true,
@@ -3038,6 +3050,30 @@
   {
     "name": "muOS Monochrome",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.Monochrome.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": false,
+    "resolution720x720": false,
+    "resolution1024x768": false,
+    "resolution1280x720": false,
+    "grid": false,
+    "hdmi": false,
+    "language": true
+  },
+  {
+    "name": "muOS Monochrome - DMG",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.Monochrome.-.DMG.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": false,
+    "resolution720x720": false,
+    "resolution1024x768": false,
+    "resolution1280x720": false,
+    "grid": false,
+    "hdmi": false,
+    "language": true
+  },
+  {
+    "name": "muOS Monochrome - orange",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.Monochrome.-.orange.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4082,6 +4118,18 @@
   {
     "name": "pipboy-tube",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/pipboy-tube.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": false,
+    "resolution720x720": false,
+    "resolution1024x768": false,
+    "resolution1280x720": false,
+    "grid": false,
+    "hdmi": false,
+    "language": false
+  },
+  {
+    "name": "Pixel World v2",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/Pixel.World.v2.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
