@@ -72,10 +72,10 @@ jobs:
               # Otherwise delete it
               echo "Deleting release: $tag  $name"
               gh release delete "$tag" -y
+            done
           else
             echo "No releases older than cutoff found"
           fi
-          done
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
