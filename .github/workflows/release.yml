@@ -36,17 +36,43 @@ jobs:
         run: |
           ls -1 /tmp/release
           
-      - name: Delete releases
-        uses: sgpublic/delete-release-action@v1.1
-        with:
-          release-drop: true
-          release-keep-count: -1
-          release-drop-tag: true
-          pre-release-drop: true
-          pre-release-keep-count: -1
-          pre-release-drop-tag: true
-          draft-drop: true
-          draft-drop-count: -1
+      - name: Delete old releases (older than 3 months)
+        run: |
+          # Get latest release tag (never delete this one)
+          LATEST=$(gh release view --json tagName -q '.tagName')
+          echo "Latest release: $LATEST"
+
+          # Get releases older than 90 days
+          OLD_RELEASES=$(gh release list --limit 1000 --json name,tagName,createdAt -q \
+            '.[] | select((.createdAt | fromdateiso8601) < (now - (90*24*60*60))) | {tag: .tagName, name: .name}')
+
+          echo "$OLD_RELEASES" | while read -r release; do
+            tag=$(echo "$release" | jq -r '.tag')
+            name=$(echo "$release" | jq -r '.name')
+
+            # Skip if it's the latest release
+            if [[ "$tag" == "$LATEST" ]]; then
+              echo "Skipping latest release: $tag  $name"
+              continue
+            fi
+
+            # Skip if last Pixie release
+            if [[ "$name" == "Pixie Themes Final Release" ]]; then
+              echo "Name Match, Skipping last Pixie release: $tag  $name"
+              continue
+            fi
+
+            # Skip if it's the latest release
+            if [[ "$tag" == "2025-08-23_1523" ]]; then
+              echo "Tag Match, Skipping last Pixie release: $tag  $name"
+              continue
+            fi
+
+            # Otherwise delete it
+            echo "Deleting release: $tag  $name"
+            # gh release delete "$tag" -y
+            # git push origin :refs/tags/"$tag" || true  # delete the tag too
+          done
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
