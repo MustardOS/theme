@@ -46,31 +46,35 @@ jobs:
           OLD_RELEASES=$(gh release list --limit 1000 --json name,tagName,createdAt -q \
             '.[] | select((.createdAt | fromdateiso8601) < (now - (90*24*60*60))) | {tag: .tagName, name: .name}')
 
-          echo "$OLD_RELEASES" | while read -r release; do
-            tag=$(echo "$release" | jq -r '.tag')
-            name=$(echo "$release" | jq -r '.name')
+          if [[ -n "$OLD_RELEASES" ]]; then
+            echo "$OLD_RELEASES" | while read -r release; do
+              tag=$(echo "$release" | jq -r '.tag')
+              name=$(echo "$release" | jq -r '.name')
 
-            # Skip if it's the latest release
-            if [[ "$tag" == "$LATEST" ]]; then
-              echo "Skipping latest release: $tag  $name"
-              continue
-            fi
+              # Skip if it's the latest release
+              if [[ "$tag" == "$LATEST" ]]; then
+                echo "Skipping latest release: $tag  $name"
+                continue
+              fi
 
-            # Skip if last Pixie release
-            if [[ "$name" == "Pixie Themes Final Release" ]]; then
-              echo "Name Match, Skipping last Pixie release: $tag  $name"
-              continue
-            fi
+              # Skip if last Pixie release
+              if [[ "$name" == "Pixie Themes Final Release" ]]; then
+                echo "Name Match, Skipping last Pixie release: $tag  $name"
+                continue
+              fi
 
-            # Skip if it's the latest release
-            if [[ "$tag" == "2025-08-23_1523" ]]; then
-              echo "Tag Match, Skipping last Pixie release: $tag  $name"
-              continue
-            fi
+              # Skip if it's the latest release
+              if [[ "$tag" == "2025-08-23_1523" ]]; then
+                echo "Tag Match, Skipping last Pixie release: $tag  $name"
+                continue
+              fi
 
-            # Otherwise delete it
-            echo "Deleting release: $tag  $name"
-            gh release delete "$tag" -y
+              # Otherwise delete it
+              echo "Deleting release: $tag  $name"
+              gh release delete "$tag" -y
+          else
+            echo "No releases older than cutoff found"
+          fi
           done
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
