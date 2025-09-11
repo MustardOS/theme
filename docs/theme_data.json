@@ -96,6 +96,18 @@
     "language": false
   },
   {
+    "name": "Bad Piggies",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/Bad.Piggies.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": false,
+    "resolution720x720": false,
+    "resolution1024x768": false,
+    "resolution1280x720": false,
+    "grid": false,
+    "hdmi": false,
+    "language": true
+  },
+  {
     "name": "Beans - Wonderland",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/Beans.-.Wonderland.muxthm",
     "resolution640x480": true,
@@ -1716,6 +1728,18 @@
     "language": true
   },
   {
+    "name": "Link\u0027s Awakening DX",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/Link.s.Awakening.DX.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": false,
+    "resolution720x720": false,
+    "resolution1024x768": false,
+    "resolution1280x720": false,
+    "grid": false,
+    "hdmi": false,
+    "language": false
+  },
+  {
     "name": "Lyxodius Dark Black",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/Lyxodius.Dark.Black.muxthm",
     "resolution640x480": true,
@@ -2018,6 +2042,30 @@
   {
     "name": "Minimal Round Grid Emerald",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/Minimal.Round.Grid.Emerald.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": true,
+    "hdmi": true,
+    "language": true
+  },
+  {
+    "name": "Minimal Round Grid Lime",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/Minimal.Round.Grid.Lime.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": true,
+    "hdmi": true,
+    "language": true
+  },
+  {
+    "name": "Minimal Round Grid Metal",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/Minimal.Round.Grid.Metal.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -4766,6 +4814,18 @@
   {
     "name": "sharp_muOS",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/sharp_muOS.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": false,
+    "resolution720x720": false,
+    "resolution1024x768": false,
+    "resolution1280x720": false,
+    "grid": false,
+    "hdmi": false,
+    "language": false
+  },
+  {
+    "name": "Sheikah Slate",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/Sheikah.Slate.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
