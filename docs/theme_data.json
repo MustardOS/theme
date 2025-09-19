@@ -2136,6 +2136,42 @@
     "language": true
   },
   {
+    "name": "MinUIfied - Horizontal",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/MinUIfied.-.Horizontal.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": false,
+    "hdmi": true,
+    "language": false
+  },
+  {
+    "name": "MinUIfied - Horizontal-Alt",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/MinUIfied.-.Horizontal-Alt.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": false,
+    "hdmi": true,
+    "language": false
+  },
+  {
+    "name": "MinUIfied - Vertical",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/MinUIfied.-.Vertical.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": false,
+    "hdmi": true,
+    "language": true
+  },
+  {
     "name": "mu-rder-OS",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/mu-rder-OS.muxthm",
     "resolution640x480": true,
