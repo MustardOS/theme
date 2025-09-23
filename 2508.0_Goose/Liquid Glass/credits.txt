@@ -1,0 +1,4 @@
+By: Ippolit Bugurtov
+
+Originally by c64-dev & Chicuelo and Mntz
+All images are fully recreated to fit muOS and it contains a nice suitable home screen.
