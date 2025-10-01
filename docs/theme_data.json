@@ -792,6 +792,30 @@
     "language": false
   },
   {
+    "name": "Fluent Dark",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/Fluent.Dark.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": true,
+    "hdmi": true,
+    "language": false
+  },
+  {
+    "name": "Fluent Light",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/Fluent.Light.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": true,
+    "hdmi": true,
+    "language": false
+  },
+  {
     "name": "FrutigerAnime",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/FrutigerAnime.muxthm",
     "resolution640x480": true,
