@@ -87,8 +87,8 @@
     "name": "Aurora",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/Aurora.muxthm",
     "resolution640x480": true,
-    "resolution720x480": false,
-    "resolution720x720": false,
+    "resolution720x480": true,
+    "resolution720x720": true,
     "resolution1024x768": false,
     "resolution1280x720": false,
     "grid": true,
@@ -192,6 +192,18 @@
     "language": true
   },
   {
+    "name": "C64",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/C64.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": false,
+    "hdmi": true,
+    "language": true
+  },
+  {
     "name": "Candy",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/Candy.muxthm",
     "resolution640x480": true,
@@ -210,7 +222,7 @@
     "resolution720x480": true,
     "resolution720x720": true,
     "resolution1024x768": false,
-    "resolution1280x720": false,
+    "resolution1280x720": true,
     "grid": true,
     "hdmi": true,
     "language": true
@@ -222,7 +234,7 @@
     "resolution720x480": true,
     "resolution720x720": true,
     "resolution1024x768": false,
-    "resolution1280x720": false,
+    "resolution1280x720": true,
     "grid": true,
     "hdmi": true,
     "language": true
@@ -234,7 +246,7 @@
     "resolution720x480": true,
     "resolution720x720": true,
     "resolution1024x768": false,
-    "resolution1280x720": false,
+    "resolution1280x720": true,
     "grid": true,
     "hdmi": true,
     "language": true
@@ -246,7 +258,7 @@
     "resolution720x480": true,
     "resolution720x720": true,
     "resolution1024x768": false,
-    "resolution1280x720": false,
+    "resolution1280x720": true,
     "grid": true,
     "hdmi": true,
     "language": true
@@ -258,7 +270,7 @@
     "resolution720x480": true,
     "resolution720x720": true,
     "resolution1024x768": false,
-    "resolution1280x720": false,
+    "resolution1280x720": true,
     "grid": true,
     "hdmi": true,
     "language": true
@@ -270,7 +282,7 @@
     "resolution720x480": true,
     "resolution720x720": true,
     "resolution1024x768": false,
-    "resolution1280x720": false,
+    "resolution1280x720": true,
     "grid": true,
     "hdmi": true,
     "language": true
@@ -282,7 +294,7 @@
     "resolution720x480": true,
     "resolution720x720": true,
     "resolution1024x768": false,
-    "resolution1280x720": false,
+    "resolution1280x720": true,
     "grid": true,
     "hdmi": true,
     "language": true
@@ -294,7 +306,7 @@
     "resolution720x480": true,
     "resolution720x720": true,
     "resolution1024x768": false,
-    "resolution1280x720": false,
+    "resolution1280x720": true,
     "grid": true,
     "hdmi": true,
     "language": true
@@ -306,7 +318,7 @@
     "resolution720x480": true,
     "resolution720x720": true,
     "resolution1024x768": false,
-    "resolution1280x720": false,
+    "resolution1280x720": true,
     "grid": true,
     "hdmi": true,
     "language": true
@@ -318,7 +330,7 @@
     "resolution720x480": true,
     "resolution720x720": true,
     "resolution1024x768": false,
-    "resolution1280x720": false,
+    "resolution1280x720": true,
     "grid": true,
     "hdmi": true,
     "language": true
@@ -330,7 +342,7 @@
     "resolution720x480": true,
     "resolution720x720": true,
     "resolution1024x768": false,
-    "resolution1280x720": false,
+    "resolution1280x720": true,
     "grid": true,
     "hdmi": true,
     "language": true
@@ -609,6 +621,18 @@
     "resolution1280x720": false,
     "grid": false,
     "hdmi": false,
+    "language": true
+  },
+  {
+    "name": "Dracula",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/Dracula.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": false,
+    "hdmi": true,
     "language": true
   },
   {
@@ -891,12 +915,12 @@
     "name": "GamePal - SnesNight",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/GamePal.-.SnesNight.muxthm",
     "resolution640x480": true,
-    "resolution720x480": true,
+    "resolution720x480": false,
     "resolution720x720": false,
-    "resolution1024x768": true,
-    "resolution1280x720": true,
+    "resolution1024x768": false,
+    "resolution1280x720": false,
     "grid": false,
-    "hdmi": true,
+    "hdmi": false,
     "language": false
   },
   {
@@ -958,6 +982,18 @@
     "grid": false,
     "hdmi": false,
     "language": false
+  },
+  {
+    "name": "GB Dark",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/GB.Dark.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": false,
+    "hdmi": true,
+    "language": true
   },
   {
     "name": "GB Light",
@@ -2244,6 +2280,18 @@
     "language": false
   },
   {
+    "name": "mubiOS",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/mubiOS.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": false,
+    "hdmi": true,
+    "language": true
+  },
+  {
     "name": "MuBuntu",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/MuBuntu.muxthm",
     "resolution640x480": true,
@@ -2310,7 +2358,7 @@
     "resolution720x480": true,
     "resolution720x720": true,
     "resolution1024x768": false,
-    "resolution1280x720": false,
+    "resolution1280x720": true,
     "grid": true,
     "hdmi": true,
     "language": true
@@ -2706,7 +2754,7 @@
     "resolution720x480": false,
     "resolution720x720": false,
     "resolution1024x768": false,
-    "resolution1280x720": false,
+    "resolution1280x720": true,
     "grid": true,
     "hdmi": true,
     "language": false
@@ -2724,8 +2772,8 @@
     "language": false
   },
   {
-    "name": "muOSWin3.1",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOSWin3.1.muxthm",
+    "name": "muOScraft - RUS_ver",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOScraft.-.RUS_ver.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2736,8 +2784,8 @@
     "language": false
   },
   {
-    "name": "muOScraft - RUS_ver",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOScraft.-.RUS_ver.muxthm",
+    "name": "muOSWin3.1",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOSWin3.1.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3498,10 +3546,22 @@
     "resolution720x480": true,
     "resolution720x720": true,
     "resolution1024x768": false,
-    "resolution1280x720": false,
+    "resolution1280x720": true,
     "grid": true,
     "hdmi": true,
     "language": false
+  },
+  {
+    "name": "Orange",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/Orange.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": false,
+    "hdmi": true,
+    "language": true
   },
   {
     "name": "Ordinateur banane",
@@ -4074,8 +4134,8 @@
     "resolution720x480": true,
     "resolution720x720": true,
     "resolution1024x768": false,
-    "resolution1280x720": false,
-    "grid": false,
+    "resolution1280x720": true,
+    "grid": true,
     "hdmi": true,
     "language": false
   },
@@ -4266,7 +4326,7 @@
     "resolution720x480": false,
     "resolution720x720": false,
     "resolution1024x768": false,
-    "resolution1280x720": false,
+    "resolution1280x720": true,
     "grid": false,
     "hdmi": true,
     "language": false
