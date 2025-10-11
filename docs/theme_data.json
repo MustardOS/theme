@@ -2508,18 +2508,6 @@
     "language": false
   },
   {
-    "name": "muOS - Pixie - Grid",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.-.Pixie.-.Grid.muxthm",
-    "resolution640x480": true,
-    "resolution720x480": true,
-    "resolution720x720": true,
-    "resolution1024x768": true,
-    "resolution1280x720": true,
-    "grid": true,
-    "hdmi": true,
-    "language": true
-  },
-  {
     "name": "MuOS Advance Pixie",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/MuOS.Advance.Pixie.muxthm",
     "resolution640x480": true,
@@ -3357,6 +3345,18 @@
     "resolution1280x720": false,
     "grid": false,
     "hdmi": false,
+    "language": true
+  },
+  {
+    "name": "MustardOS-Grid",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardOS-Grid.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": true,
+    "hdmi": true,
     "language": true
   },
   {
