@@ -1,1 +1,1 @@
-/opt/muos/device/current/script/led_control.sh 6 102 5
+/opt/muos/script/device/rgb.sh 6 102 5
