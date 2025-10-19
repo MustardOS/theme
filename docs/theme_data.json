@@ -1812,6 +1812,18 @@
     "language": false
   },
   {
+    "name": "Luo Xiaohei",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/Luo.Xiaohei.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": false,
+    "resolution720x720": false,
+    "resolution1024x768": false,
+    "resolution1280x720": false,
+    "grid": false,
+    "hdmi": false,
+    "language": false
+  },
+  {
     "name": "Lyxodius Dark Black",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/Lyxodius.Dark.Black.muxthm",
     "resolution640x480": true,
