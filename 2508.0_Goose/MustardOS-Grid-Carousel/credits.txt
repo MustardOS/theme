@@ -2,5 +2,5 @@ Theme: Bitter Bizarro
 Boot Logo: LMarcoMiranda (patreon.com/LMarcoMirandaThemes)
 Icon Glyphs: Line Icons 5 (lineicons.com)
 Navigation Sounds: Aedilic Inc. (reactsounds.com)
-Icons are from RetroArch's monochrome set for XMB
-https://github.com/libretro/retroarch-assets/tree/master/xmb/monochrome
+Icons are from es-theme-snes-mini set by ruckage
+https://github.com/ruckage/es-theme-snes-mini
