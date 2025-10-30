@@ -1,0 +1,5 @@
+mode=1
+color=5
+combo=1
+brightness=6
+speed=2
