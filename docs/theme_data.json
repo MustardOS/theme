@@ -24,6 +24,18 @@
     "language": false
   },
   {
+    "name": "Arctic Blue",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/Arctic.Blue.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": false,
+    "resolution720x720": false,
+    "resolution1024x768": false,
+    "resolution1280x720": false,
+    "grid": true,
+    "hdmi": false,
+    "language": false
+  },
+  {
     "name": "Art Book Next v1",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/Art.Book.Next.v1.muxthm",
     "resolution640x480": true,
@@ -411,7 +423,7 @@
     "name": "Coffee Time",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/Coffee.Time.muxthm",
     "resolution640x480": true,
-    "resolution720x480": false,
+    "resolution720x480": true,
     "resolution720x720": false,
     "resolution1024x768": false,
     "resolution1280x720": false,
@@ -4725,6 +4737,18 @@
     "resolution1280x720": false,
     "grid": false,
     "hdmi": false,
+    "language": false
+  },
+  {
+    "name": "Untitled Goose GameOS",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/Untitled.Goose.GameOS.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": false,
+    "hdmi": true,
     "language": false
   },
   {
