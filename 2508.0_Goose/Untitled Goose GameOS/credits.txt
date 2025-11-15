@@ -1,0 +1,11 @@
+Theme: Emulation Otaku
+(patreon.com/EmulationOtaku)
+Boot Logo: House House 
+Icon Glyphs: Line Icons 5 (lineicons.com)
+Navigation Sounds: House House (https://sounds.spriters-resource.com/)
+PerfectCRT Filter: 1playerinsertcoin
+Background Music: House House
+
+BIG THANKS TO @Bitter_Bazzaro
+
+All images are derived from the actual game. No fanart used. 
