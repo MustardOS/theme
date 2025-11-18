@@ -3432,6 +3432,18 @@
     "language": true
   },
   {
+    "name": "MustardOS-Grid-ES-Theme",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardOS-Grid-ES-Theme.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": true,
+    "hdmi": true,
+    "language": true
+  },
+  {
     "name": "muVB",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/muVB.muxthm",
     "resolution640x480": true,
