@@ -4,3 +4,5 @@ Icon Glyphs: Line Icons 5 (lineicons.com)
 Navigation Sounds: Aedilic Inc. (reactsounds.com)
 Icons are from es-theme-snes-mini set by ruckage
 https://github.com/ruckage/es-theme-snes-mini
+and
+https://digdroid.com/forums/discussion/9038/mini-mix-1-1
