@@ -127,7 +127,7 @@ input[type="text"]::placeholder {
     gap: 20px;
     row-gap: 40px;
     padding: 20px;
-    
+    padding-bottom: 40px;
 }
 
 .portfolio-item {
