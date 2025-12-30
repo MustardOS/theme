@@ -1,3 +1,21 @@
+document.querySelectorAll('.portfolio-item').forEach(item => {
+    const img = item.querySelector('img');
+    if (!img.dataset.images) return;
+    const base = img.dataset.imageBase || '';
+    const images = img.dataset.images.split(',');
+    let index = 0;
+  
+    item.querySelector('.prev').addEventListener('click', () => {
+        index = (index - 1 + images.length) % images.length;
+        img.src = base + images[index];
+    });
+  
+    item.querySelector('.next').addEventListener('click', () => {
+        index = (index + 1) % images.length;
+        img.src = base + images[index];
+    });
+});
+
 document.addEventListener('DOMContentLoaded', function() {
     // UI elements
     const deviceFilterMenu = document.getElementById('device-filter');
@@ -59,8 +77,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 isMatchingGroupIDFilter;
             
             // Only show items that match all filters
-            const parentItem = item.closest('a');
-            parentItem.style.display = isMatchingAllFilters ? 'block' : 'none';
+            item.style.display = isMatchingAllFilters ? 'block' : 'none';
         });
     }
 
