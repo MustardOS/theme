@@ -204,9 +204,11 @@ a:hover {
 }
 
 .image-wrap .prev {
+  touch-action: manipulation;
   left: -1.5rem;
 }
 
 .image-wrap .next {
+  touch-action: manipulation;
   right: -1.5rem;
 }
