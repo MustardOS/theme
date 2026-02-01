@@ -1,0 +1,5 @@
+by: D98Jay
+
+A theme that use native MuOS layout only, with flat color palettes.
+Credits: Based on OneTwo theme by bulkh. System icons and console images from OneTwo theme.
+v1.2
