@@ -3528,6 +3528,30 @@
     "language": false
   },
   {
+    "name": "MuxRemix-Core",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/MuxRemix-Core.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": false,
+    "hdmi": true,
+    "language": true
+  },
+  {
+    "name": "MuxRemix-Grid",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/MuxRemix-Grid.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": true,
+    "hdmi": true,
+    "language": true
+  },
+  {
     "name": "NES muOS",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/NES.muOS.muxthm",
     "resolution640x480": true,
@@ -4713,6 +4737,18 @@
     "resolution1280x720": false,
     "grid": false,
     "hdmi": false,
+    "language": false
+  },
+  {
+    "name": "Terminal - Redacted",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/Terminal.-.Redacted.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": true,
+    "hdmi": true,
     "language": false
   },
   {
