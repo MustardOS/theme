@@ -4908,6 +4908,18 @@
     "language": true
   },
   {
+    "name": "Waveworn",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/Waveworn.muxthm",
+    "resolution640x480": false,
+    "resolution720x480": false,
+    "resolution720x720": false,
+    "resolution1024x768": true,
+    "resolution1280x720": false,
+    "grid": true,
+    "hdmi": false,
+    "language": false
+  },
+  {
     "name": "WhitexBlack",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/WhitexBlack.muxthm",
     "resolution640x480": true,
