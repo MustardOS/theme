@@ -57,6 +57,12 @@ jobs:
                 continue
               fi
 
+              # Skip if last Goose release
+              if [[ "$name" == "Goose Themes Final Release" ]]; then
+                echo "Name Match, Skipping last Goose release: $tag  $name"
+                continue
+              fi
+
               # Skip if last Pixie release
               if [[ "$name" == "Pixie Themes Final Release" ]]; then
                 echo "Name Match, Skipping last Pixie release: $tag  $name"
