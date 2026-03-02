@@ -87,8 +87,8 @@ jobs:
       - name: Prepare Release
         uses: ncipollo/release-action@v1.14.0
         with:
-          name: "2508.0 Goose Themes"
-          tag: "2508.0_Goose_${{steps.date.outputs.date}}"
+          name: "2601.0 Jacaranda Themes"
+          tag: "2601.0_Jacaranda_${{steps.date.outputs.date}}"
           allowUpdates: true
           draft: true
           prerelease: false
@@ -100,8 +100,8 @@ jobs:
       - name: Publish Release
         uses: ncipollo/release-action@v1.14.0
         with:
-          name: "2508.0 Goose Themes"
-          tag: "2508.0_Goose_${{steps.date.outputs.date}}"
+          name: "2601.0 Jacaranda Themes"
+          tag: "2601.0_Jacaranda_${{steps.date.outputs.date}}"
           omitBodyDuringUpdate: true
           omitNameDuringUpdate: true
           allowUpdates: true

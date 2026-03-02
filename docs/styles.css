@@ -212,3 +212,11 @@ a:hover {
   touch-action: manipulation;
   right: -1.5rem;
 }
+
+table {
+    margin: 0 auto;
+}
+
+td {
+    text-align: left;
+}
