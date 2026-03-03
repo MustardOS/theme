@@ -4812,6 +4812,18 @@
     "language": true
   },
   {
+    "name": "TriMuOS",
+    "url": "https://github.com/MustardOS/theme/releases/latest/download/TriMuOS.muxthm",
+    "resolution640x480": false,
+    "resolution720x480": false,
+    "resolution720x720": false,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": true,
+    "hdmi": true,
+    "language": true
+  },
+  {
     "name": "Turtles",
     "url": "https://github.com/MustardOS/theme/releases/latest/download/Turtles.muxthm",
     "resolution640x480": true,
