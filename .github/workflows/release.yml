@@ -57,6 +57,12 @@ jobs:
                 continue
               fi
 
+              # Skip if last Jacaranda release
+              if [[ "$name" == "Jacaranda Themes Final Release" ]]; then
+                echo "Name Match, Skipping last Jacaranda release: $tag  $name"
+                continue
+              fi
+              
               # Skip if last Goose release
               if [[ "$name" == "Goose Themes Final Release" ]]; then
                 echo "Name Match, Skipping last Goose release: $tag  $name"
@@ -93,8 +99,8 @@ jobs:
       - name: Prepare Release
         uses: ncipollo/release-action@v1.14.0
         with:
-          name: "2601.0 Jacaranda Themes"
-          tag: "2601.0_Jacaranda_${{steps.date.outputs.date}}"
+          name: "2606.0 Andromeda Themes"
+          tag: "2606.0_Andromeda_${{steps.date.outputs.date}}"
           allowUpdates: true
           draft: true
           prerelease: false
@@ -106,8 +112,8 @@ jobs:
       - name: Publish Release
         uses: ncipollo/release-action@v1.14.0
         with:
-          name: "2601.0 Jacaranda Themes"
-          tag: "2601.0_Jacaranda_${{steps.date.outputs.date}}"
+          name: "2606.0 Andromeda Themes"
+          tag: "2606.0_Andromeda_${{steps.date.outputs.date}}"
           omitBodyDuringUpdate: true
           omitNameDuringUpdate: true
           allowUpdates: true
