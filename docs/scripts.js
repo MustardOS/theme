@@ -19,7 +19,6 @@ document.querySelectorAll('.portfolio-item').forEach(item => {
 document.addEventListener('DOMContentLoaded', function() {
     // UI elements
     const deviceFilterMenu = document.getElementById('device-filter');
-    const versionFilterMenu = document.getElementById('version-filter');
     const hdmiFilterCheckbox = document.getElementById('hdmi-filter');
     const gridFilterCheckbox = document.getElementById('grid-filter');
     const languageFilterCheckbox = document.getElementById('language-filter');
@@ -31,7 +30,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // Updates the UI to reflect the URL query params
     function updateUI() {
         // Get filters from query params
-        const versionFilter = getQueryParm(queryParams.version) ?? 'Goose';
         const deviceFilter = getQueryParm(queryParams.device) ?? 'all';
         const isHdmiFilterEnabled = getQueryParm(queryParams.hdmi) === 'true';
         const isGridFilterEnabled = getQueryParm(queryParams.grid) === 'true';
@@ -40,7 +38,6 @@ document.addEventListener('DOMContentLoaded', function() {
         const groupIdQuery = getQueryParm(queryParams.groupid) ?? '';
 
         // Update filter UI
-        versionFilterMenu.value = versionFilter;
         deviceFilterMenu.value = deviceFilter;
         hdmiFilterCheckbox.checked = isHdmiFilterEnabled;
         gridFilterCheckbox.checked = isGridFilterEnabled;
@@ -54,12 +51,10 @@ document.addEventListener('DOMContentLoaded', function() {
         // Show or hide portfolio items
         portfolioItems.forEach(item => {
             // E.g. "RG35XX RG40XX HDMI Grid"
-            const version = item.getAttribute('data-version');
             const categories = item.getAttribute('data-category').split(' ');
             const groupid = item.getAttribute('data-groupid') ?? '';
             const itemText = item.textContent;
             
-            const isMatchingVersionFilter = versionFilter === version;
             const isMatchingDeviceFilter = deviceFilter === 'all' || categories.includes(deviceFilter);
             const isMatchingHdmiFilter = !isHdmiFilterEnabled || categories.includes('HDMI');
             const isMatchingGridFilter = !isGridFilterEnabled || categories.includes('Grid');
@@ -68,7 +63,6 @@ document.addEventListener('DOMContentLoaded', function() {
             const isMatchingGroupIDFilter = groupIdQuery === groupid || (groupIdQuery === '' && groupid === '');
             
             const isMatchingAllFilters =
-                isMatchingVersionFilter &&
                 isMatchingDeviceFilter &&
                 isMatchingHdmiFilter &&
                 isMatchingGridFilter &&
@@ -82,10 +76,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Update URL & UI when user interactions occur
-    versionFilterMenu.addEventListener('change', function() {
-        setQueryParam(queryParams.version, this.value);
-        updateUI();
-    });
     deviceFilterMenu.addEventListener('change', function() {
         setQueryParam(queryParams.device, this.value);
         updateUI();
@@ -131,7 +121,6 @@ const setQueryParam = (key, value) => {
 }
 
 const queryParams = {
-    version: 'version',
     device: 'device',
     hdmi: 'hdmi',
     grid: 'grid',
