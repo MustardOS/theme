@@ -99,27 +99,50 @@ jobs:
       - name: Prepare Release
         uses: ncipollo/release-action@v1.14.0
         with:
-          name: "2606.0 Andromeda Themes"
-          tag: "2606.0_Andromeda_${{steps.date.outputs.date}}"
+          name: "2606.0 Andromeda Themes ${{ steps.date.outputs.date }}"
+          tag: "2606.0_Andromeda_${{ steps.date.outputs.date }}"
           allowUpdates: true
           draft: true
           prerelease: false
           replacesArtifacts: false
           omitNameDuringUpdate: true
-          artifacts: "/tmp/release/*.muxthm"
+          artifacts: |
+            /tmp/release/*.muxthm
+            docs/theme_data.json
+            docs/theme_catalogue.muxzip
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish Release
         uses: ncipollo/release-action@v1.14.0
         with:
-          name: "2606.0 Andromeda Themes"
-          tag: "2606.0_Andromeda_${{steps.date.outputs.date}}"
+          name: "2606.0 Andromeda Themes ${{ steps.date.outputs.date }}"
+          tag: "2606.0_Andromeda_${{ steps.date.outputs.date }}"
           omitBodyDuringUpdate: true
           omitNameDuringUpdate: true
           allowUpdates: true
           draft: false
           prerelease: false
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update Static Track Release (No Tag Movement)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          STATIC_TAG="2606.0_Andromeda_Latest"
+
+          # 1. If the static release exists, delete it to clear out the old commit reference
+          if gh release view "$STATIC_TAG" >/dev/null 2>&1; then
+            echo "Deleting old static release to update commit target..."
+            gh release delete "$STATIC_TAG" --cleanup-tag --yes
+          fi
+
+          # 2. Create a brand new static release directly on the newest commit hash
+          echo "Recreating static release on commit $GITHUB_SHA..."
+          gh release create "$STATIC_TAG" \
+            --target "$GITHUB_SHA" \
+            --title "2606.0 Andromeda Themes Latest" \
+            --notes "Static URL used by Theme Downloader. Current build artifact is synced from history release: 2606.0_${{ steps.date.outputs.date }}" \
+            /tmp/release/*.muxthm docs/theme_data.json docs/theme_catalogue.muxzip
 
       - name: Release Info
         id: info
