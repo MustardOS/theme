@@ -1,7 +1,7 @@
 [
   {
     "name": "Analogue",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Analogue.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Analogue.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -13,7 +13,7 @@
   },
   {
     "name": "Analogue-Arimo",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Analogue-Arimo.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Analogue-Arimo.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -25,7 +25,7 @@
   },
   {
     "name": "Arctic Blue",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Arctic.Blue.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Arctic.Blue.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -37,7 +37,7 @@
   },
   {
     "name": "Art Book Next v1",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Art.Book.Next.v1.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Art.Book.Next.v1.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -49,7 +49,7 @@
   },
   {
     "name": "Art Book Next v1 Chs",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Art.Book.Next.v1.Chs.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Art.Book.Next.v1.Chs.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -61,7 +61,7 @@
   },
   {
     "name": "Art Book Next v2",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Art.Book.Next.v2.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Art.Book.Next.v2.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -73,7 +73,7 @@
   },
   {
     "name": "ArtBookNextV3",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/ArtBookNextV3.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/ArtBookNextV3.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -85,7 +85,7 @@
   },
   {
     "name": "ArtBookNextV3_PTBR",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/ArtBookNextV3_PTBR.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/ArtBookNextV3_PTBR.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -97,7 +97,7 @@
   },
   {
     "name": "Aurora",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Aurora.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Aurora.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -109,7 +109,7 @@
   },
   {
     "name": "Bad Piggies",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Bad.Piggies.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Bad.Piggies.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -121,7 +121,7 @@
   },
   {
     "name": "Beans - Wonderland",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Beans.-.Wonderland.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Beans.-.Wonderland.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -133,7 +133,7 @@
   },
   {
     "name": "Beanz",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Beanz.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Beanz.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -145,7 +145,7 @@
   },
   {
     "name": "BigBrogrammer",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/BigBrogrammer.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/BigBrogrammer.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -157,7 +157,7 @@
   },
   {
     "name": "Birds - Orioles x Sakura",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Birds.-.Orioles.x.Sakura.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Birds.-.Orioles.x.Sakura.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -169,7 +169,7 @@
   },
   {
     "name": "Blade",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Blade.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Blade.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -181,7 +181,7 @@
   },
   {
     "name": "Blue.Archive.-.Arona",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Blue.Archive.-.Arona.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Blue.Archive.-.Arona.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -193,7 +193,7 @@
   },
   {
     "name": "Brogrammer-DejaVu",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Brogrammer-DejaVu.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Brogrammer-DejaVu.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -205,7 +205,7 @@
   },
   {
     "name": "C64",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/C64.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/C64.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -217,7 +217,7 @@
   },
   {
     "name": "Candy",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Candy.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Candy.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -229,7 +229,7 @@
   },
   {
     "name": "CatOs",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/CatOs.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/CatOs.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -241,7 +241,7 @@
   },
   {
     "name": "CatOS - Black",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/CatOS.-.Black.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/CatOS.-.Black.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -253,7 +253,7 @@
   },
   {
     "name": "CatOS - Blue",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/CatOS.-.Blue.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/CatOS.-.Blue.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -265,7 +265,7 @@
   },
   {
     "name": "CatOS - Green",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/CatOS.-.Green.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/CatOS.-.Green.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -277,7 +277,7 @@
   },
   {
     "name": "CatOS - Indigo",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/CatOS.-.Indigo.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/CatOS.-.Indigo.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -289,7 +289,7 @@
   },
   {
     "name": "CatOS - Orange",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/CatOS.-.Orange.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/CatOS.-.Orange.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -301,7 +301,7 @@
   },
   {
     "name": "CatOS - Red",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/CatOS.-.Red.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/CatOS.-.Red.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -313,7 +313,7 @@
   },
   {
     "name": "CatOS - ROYGBIV",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/CatOS.-.ROYGBIV.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/CatOS.-.ROYGBIV.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -325,7 +325,7 @@
   },
   {
     "name": "CatOS - Violet",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/CatOS.-.Violet.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/CatOS.-.Violet.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -337,7 +337,7 @@
   },
   {
     "name": "CatOS - White",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/CatOS.-.White.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/CatOS.-.White.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -349,7 +349,7 @@
   },
   {
     "name": "CatOS - Yellow",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/CatOS.-.Yellow.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/CatOS.-.Yellow.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -361,7 +361,7 @@
   },
   {
     "name": "CatOsGreen",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/CatOsGreen.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/CatOsGreen.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -373,7 +373,7 @@
   },
   {
     "name": "CatOsPink",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/CatOsPink.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/CatOsPink.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -385,7 +385,7 @@
   },
   {
     "name": "Catppuccin Frappe",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Catppuccin.Frappe.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Catppuccin.Frappe.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -397,7 +397,7 @@
   },
   {
     "name": "CC-29",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/CC-29.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/CC-29.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -409,7 +409,7 @@
   },
   {
     "name": "Cheers",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Cheers.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Cheers.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -421,7 +421,7 @@
   },
   {
     "name": "Coffee Time",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Coffee.Time.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Coffee.Time.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": false,
@@ -433,7 +433,7 @@
   },
   {
     "name": "Cosy",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Cosy.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Cosy.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -445,7 +445,7 @@
   },
   {
     "name": "Custom muOS Banana - Console",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Custom.muOS.Banana.-.Console.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Custom.muOS.Banana.-.Console.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -457,7 +457,7 @@
   },
   {
     "name": "Custom muOS Banana - Forest",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Custom.muOS.Banana.-.Forest.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Custom.muOS.Banana.-.Forest.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -469,7 +469,7 @@
   },
   {
     "name": "Custom muOS Banana - Game",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Custom.muOS.Banana.-.Game.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Custom.muOS.Banana.-.Game.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -481,7 +481,7 @@
   },
   {
     "name": "Custom muOS Banana - Halloween",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Custom.muOS.Banana.-.Halloween.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Custom.muOS.Banana.-.Halloween.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -493,7 +493,7 @@
   },
   {
     "name": "Custom2",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Custom2.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Custom2.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -505,7 +505,7 @@
   },
   {
     "name": "CyberMU",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/CyberMU.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/CyberMU.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -517,7 +517,7 @@
   },
   {
     "name": "Cyberpunk Neon",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Cyberpunk.Neon.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Cyberpunk.Neon.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -529,7 +529,7 @@
   },
   {
     "name": "deadpool-by-ryx",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/deadpool-by-ryx.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/deadpool-by-ryx.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -541,7 +541,7 @@
   },
   {
     "name": "Def not SFC - Dark",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Def.not.SFC.-.Dark.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Def.not.SFC.-.Dark.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -553,7 +553,7 @@
   },
   {
     "name": "Def not SNES",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Def.not.SNES.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Def.not.SNES.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -565,7 +565,7 @@
   },
   {
     "name": "Disk Sys",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Disk.Sys.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Disk.Sys.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -577,7 +577,7 @@
   },
   {
     "name": "Dot Matrix - Dark",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Dot.Matrix.-.Dark.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Dot.Matrix.-.Dark.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -589,7 +589,7 @@
   },
   {
     "name": "Dot Matrix - Green",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Dot.Matrix.-.Green.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Dot.Matrix.-.Green.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -601,7 +601,7 @@
   },
   {
     "name": "Dot Matrix - Mustard",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Dot.Matrix.-.Mustard.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Dot.Matrix.-.Mustard.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -613,7 +613,7 @@
   },
   {
     "name": "Dot Matrix - Pink",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Dot.Matrix.-.Pink.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Dot.Matrix.-.Pink.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -625,7 +625,7 @@
   },
   {
     "name": "DOTT",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/DOTT.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/DOTT.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -637,7 +637,7 @@
   },
   {
     "name": "Dracula",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Dracula.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Dracula.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -649,7 +649,7 @@
   },
   {
     "name": "Dragon Ball Daima",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Dragon.Ball.Daima.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Dragon.Ball.Daima.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -661,7 +661,7 @@
   },
   {
     "name": "Dreamcast Themecast",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Dreamcast.Themecast.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Dreamcast.Themecast.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -673,7 +673,7 @@
   },
   {
     "name": "dsOS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/dsOS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/dsOS.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": false,
@@ -685,7 +685,7 @@
   },
   {
     "name": "DWBH - GB",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/DWBH.-.GB.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/DWBH.-.GB.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -697,7 +697,7 @@
   },
   {
     "name": "Eagle Union",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Eagle.Union.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Eagle.Union.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -709,7 +709,7 @@
   },
   {
     "name": "Echoes of Wisdom",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Echoes.of.Wisdom.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Echoes.of.Wisdom.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -721,7 +721,7 @@
   },
   {
     "name": "EmulationStation",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/EmulationStation.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/EmulationStation.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -733,7 +733,7 @@
   },
   {
     "name": "Epic Noir",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Epic.Noir.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Epic.Noir.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -745,7 +745,7 @@
   },
   {
     "name": "Epic White",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Epic.White.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Epic.White.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": false,
@@ -757,7 +757,7 @@
   },
   {
     "name": "EZF Cobalt",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/EZF.Cobalt.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/EZF.Cobalt.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -769,7 +769,7 @@
   },
   {
     "name": "Fallout 3",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Fallout.3.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Fallout.3.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -781,7 +781,7 @@
   },
   {
     "name": "Fallout Caution",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Fallout.Caution.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Fallout.Caution.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -793,7 +793,7 @@
   },
   {
     "name": "Faux Dark",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Faux.Dark.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Faux.Dark.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -805,7 +805,7 @@
   },
   {
     "name": "FFos",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/FFos.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/FFos.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -817,7 +817,7 @@
   },
   {
     "name": "FINAL MUSTARD VII",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/FINAL.MUSTARD.VII.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/FINAL.MUSTARD.VII.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -829,7 +829,7 @@
   },
   {
     "name": "Fluent Dark",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Fluent.Dark.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Fluent.Dark.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -841,7 +841,7 @@
   },
   {
     "name": "Fluent Light",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Fluent.Light.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Fluent.Light.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -853,7 +853,7 @@
   },
   {
     "name": "Fluent Purple",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Fluent.Purple.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Fluent.Purple.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -865,7 +865,7 @@
   },
   {
     "name": "FrutigerAnime",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/FrutigerAnime.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/FrutigerAnime.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -877,7 +877,7 @@
   },
   {
     "name": "GamePal - LCDLight",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GamePal.-.LCDLight.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GamePal.-.LCDLight.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -889,7 +889,7 @@
   },
   {
     "name": "GamePal - LCDNight",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GamePal.-.LCDNight.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GamePal.-.LCDNight.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -901,7 +901,7 @@
   },
   {
     "name": "GamePal - Light",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GamePal.-.Light.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GamePal.-.Light.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -913,7 +913,7 @@
   },
   {
     "name": "GamePal - Night",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GamePal.-.Night.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GamePal.-.Night.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -925,7 +925,7 @@
   },
   {
     "name": "GamePal - SnesLight",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GamePal.-.SnesLight.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GamePal.-.SnesLight.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -937,7 +937,7 @@
   },
   {
     "name": "GamePal - SnesNight",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GamePal.-.SnesNight.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GamePal.-.SnesNight.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -949,7 +949,7 @@
   },
   {
     "name": "GamePal - Sober",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GamePal.-.Sober.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GamePal.-.Sober.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -961,7 +961,7 @@
   },
   {
     "name": "GamePal - Sober Horizontal",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GamePal.-.Sober.Horizontal.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GamePal.-.Sober.Horizontal.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -973,7 +973,7 @@
   },
   {
     "name": "GamePal Night - K. Torden",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GamePal.Night.-.K.Torden.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GamePal.Night.-.K.Torden.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -985,7 +985,7 @@
   },
   {
     "name": "GarstardOS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GarstardOS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GarstardOS.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -997,7 +997,7 @@
   },
   {
     "name": "GarstardOS - Black",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GarstardOS.-.Black.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GarstardOS.-.Black.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1009,7 +1009,7 @@
   },
   {
     "name": "GB Dark",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GB.Dark.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GB.Dark.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1021,7 +1021,7 @@
   },
   {
     "name": "GB Light",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GB.Light.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GB.Light.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1033,7 +1033,7 @@
   },
   {
     "name": "GbOS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GbOS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GbOS.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1045,7 +1045,7 @@
   },
   {
     "name": "GbOS Color - Amber",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GbOS.Color.-.Amber.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GbOS.Color.-.Amber.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1057,7 +1057,7 @@
   },
   {
     "name": "GbOS Color - Black",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GbOS.Color.-.Black.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GbOS.Color.-.Black.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1069,7 +1069,7 @@
   },
   {
     "name": "GbOS Color - Diamond",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GbOS.Color.-.Diamond.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GbOS.Color.-.Diamond.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1081,7 +1081,7 @@
   },
   {
     "name": "GbOS Color - DMG",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GbOS.Color.-.DMG.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GbOS.Color.-.DMG.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1093,7 +1093,7 @@
   },
   {
     "name": "GbOS Color - Obsidian",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GbOS.Color.-.Obsidian.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GbOS.Color.-.Obsidian.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1105,7 +1105,7 @@
   },
   {
     "name": "GbOS Color - Ruby",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GbOS.Color.-.Ruby.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GbOS.Color.-.Ruby.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1117,7 +1117,7 @@
   },
   {
     "name": "GbOS Color - Sapphire",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GbOS.Color.-.Sapphire.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GbOS.Color.-.Sapphire.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1129,7 +1129,7 @@
   },
   {
     "name": "GbOS Color - White",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GbOS.Color.-.White.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GbOS.Color.-.White.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1141,7 +1141,7 @@
   },
   {
     "name": "GbOS Grid Mod",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GbOS.Grid.Mod.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GbOS.Grid.Mod.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1153,7 +1153,7 @@
   },
   {
     "name": "GbOS Minimal",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GbOS.Minimal.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GbOS.Minimal.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1165,7 +1165,7 @@
   },
   {
     "name": "Genki Denki GOGOGO",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Genki.Denki.GOGOGO.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Genki.Denki.GOGOGO.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1177,7 +1177,7 @@
   },
   {
     "name": "GenshinImpact",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/GenshinImpact.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/GenshinImpact.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1189,7 +1189,7 @@
   },
   {
     "name": "Gintama Animated",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Gintama.Animated.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Gintama.Animated.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1201,7 +1201,7 @@
   },
   {
     "name": "Glass V1",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Glass.V1.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Glass.V1.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1213,7 +1213,7 @@
   },
   {
     "name": "Golden Sun",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Golden.Sun.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Golden.Sun.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1225,7 +1225,7 @@
   },
   {
     "name": "Gruvbox Dark",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Gruvbox.Dark.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Gruvbox.Dark.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1237,7 +1237,7 @@
   },
   {
     "name": "Gruvbox Light",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Gruvbox.Light.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Gruvbox.Light.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1249,7 +1249,7 @@
   },
   {
     "name": "Haze",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Haze.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Haze.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1261,7 +1261,7 @@
   },
   {
     "name": "Haze Dark",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Haze.Dark.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Haze.Dark.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1273,7 +1273,7 @@
   },
   {
     "name": "Hello Kitty",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hello.Kitty.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hello.Kitty.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1285,7 +1285,7 @@
   },
   {
     "name": "High Contrast",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/High.Contrast.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/High.Contrast.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1297,7 +1297,7 @@
   },
   {
     "name": "HoennOS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/HoennOS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/HoennOS.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1309,7 +1309,7 @@
   },
   {
     "name": "Hololive - Airani Iofifteen",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Airani.Iofifteen.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Airani.Iofifteen.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1321,7 +1321,7 @@
   },
   {
     "name": "Hololive - Amelia Watson",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Amelia.Watson.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Amelia.Watson.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1333,7 +1333,7 @@
   },
   {
     "name": "Hololive - Anya Melfissa",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Anya.Melfissa.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Anya.Melfissa.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1345,7 +1345,7 @@
   },
   {
     "name": "Hololive - Ayunda Risu",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Ayunda.Risu.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Ayunda.Risu.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1357,7 +1357,7 @@
   },
   {
     "name": "Hololive - Cecilia Immergreen",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Cecilia.Immergreen.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Cecilia.Immergreen.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1369,7 +1369,7 @@
   },
   {
     "name": "Hololive - Ceres Fauna",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Ceres.Fauna.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Ceres.Fauna.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1381,7 +1381,7 @@
   },
   {
     "name": "Hololive - Elizabeth Rose Bloodflame",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Elizabeth.Rose.Bloodflame.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Elizabeth.Rose.Bloodflame.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1393,7 +1393,7 @@
   },
   {
     "name": "Hololive - FuwaMoco",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.FuwaMoco.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.FuwaMoco.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1405,7 +1405,7 @@
   },
   {
     "name": "Hololive - Gawr Gura",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Gawr.Gura.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Gawr.Gura.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1417,7 +1417,7 @@
   },
   {
     "name": "Hololive - Gigi Murin",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Gigi.Murin.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Gigi.Murin.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1429,7 +1429,7 @@
   },
   {
     "name": "Hololive - Hakos Baelz",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Hakos.Baelz.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Hakos.Baelz.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1441,7 +1441,7 @@
   },
   {
     "name": "Hololive - IRyS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.IRyS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.IRyS.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1453,7 +1453,7 @@
   },
   {
     "name": "Hololive - Kaela Kovalskia",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Kaela.Kovalskia.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Kaela.Kovalskia.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1465,7 +1465,7 @@
   },
   {
     "name": "Hololive - Kobo Kanaeru",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Kobo.Kanaeru.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Kobo.Kanaeru.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1477,7 +1477,7 @@
   },
   {
     "name": "Hololive - Koseki Bijou",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Koseki.Bijou.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Koseki.Bijou.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1489,7 +1489,7 @@
   },
   {
     "name": "Hololive - Kureiji Ollie",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Kureiji.Ollie.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Kureiji.Ollie.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1501,7 +1501,7 @@
   },
   {
     "name": "Hololive - Moona Hoshinova",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Moona.Hoshinova.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Moona.Hoshinova.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1513,7 +1513,7 @@
   },
   {
     "name": "Hololive - Mori Calliope",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Mori.Calliope.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Mori.Calliope.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1525,7 +1525,7 @@
   },
   {
     "name": "Hololive - Nanashi Mumei",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Nanashi.Mumei.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Nanashi.Mumei.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1537,7 +1537,7 @@
   },
   {
     "name": "Hololive - Nerissa Ravencroft",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Nerissa.Ravencroft.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Nerissa.Ravencroft.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1549,7 +1549,7 @@
   },
   {
     "name": "Hololive - Ninomae Ina\u0027nis",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Ninomae.Ina.nis.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Ninomae.Ina.nis.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1561,7 +1561,7 @@
   },
   {
     "name": "Hololive - Ouro Kronii",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Ouro.Kronii.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Ouro.Kronii.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1573,7 +1573,7 @@
   },
   {
     "name": "Hololive - Pavolia Reine",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Pavolia.Reine.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Pavolia.Reine.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1585,7 +1585,7 @@
   },
   {
     "name": "Hololive - Raora Panthera",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Raora.Panthera.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Raora.Panthera.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1597,7 +1597,7 @@
   },
   {
     "name": "Hololive - Shiori Novella",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Shiori.Novella.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Shiori.Novella.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1609,7 +1609,7 @@
   },
   {
     "name": "Hololive - Takanashi Kiara",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Takanashi.Kiara.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Takanashi.Kiara.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1621,7 +1621,7 @@
   },
   {
     "name": "Hololive - Tsukumo Sana",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Tsukumo.Sana.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Tsukumo.Sana.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1633,7 +1633,7 @@
   },
   {
     "name": "Hololive - Vestia Zeta",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Hololive.-.Vestia.Zeta.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Hololive.-.Vestia.Zeta.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1645,7 +1645,7 @@
   },
   {
     "name": "Homestar Runner",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Homestar.Runner.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Homestar.Runner.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1657,7 +1657,7 @@
   },
   {
     "name": "HyruleOS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/HyruleOS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/HyruleOS.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1669,7 +1669,7 @@
   },
   {
     "name": "IcS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/IcS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/IcS.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1681,7 +1681,7 @@
   },
   {
     "name": "Initial D",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Initial.D.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Initial.D.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1693,7 +1693,7 @@
   },
   {
     "name": "Innuendo",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Innuendo.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Innuendo.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1705,7 +1705,7 @@
   },
   {
     "name": "JFBC",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/JFBC.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/JFBC.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1717,7 +1717,7 @@
   },
   {
     "name": "JohtOS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/JohtOS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/JohtOS.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1729,7 +1729,7 @@
   },
   {
     "name": "KantOS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/KantOS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/KantOS.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": false,
@@ -1741,7 +1741,7 @@
   },
   {
     "name": "Kernel",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Kernel.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Kernel.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1753,7 +1753,7 @@
   },
   {
     "name": "KirbyOS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/KirbyOS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/KirbyOS.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1765,7 +1765,7 @@
   },
   {
     "name": "Lappy 486",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Lappy.486.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Lappy.486.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1777,7 +1777,7 @@
   },
   {
     "name": "LCD",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/LCD.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/LCD.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": false,
@@ -1789,7 +1789,7 @@
   },
   {
     "name": "LCD H",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/LCD.H.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/LCD.H.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1801,7 +1801,7 @@
   },
   {
     "name": "LCD Plus",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/LCD.Plus.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/LCD.Plus.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1813,7 +1813,7 @@
   },
   {
     "name": "Link\u0027s Awakening DX",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Link.s.Awakening.DX.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Link.s.Awakening.DX.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1825,7 +1825,7 @@
   },
   {
     "name": "Liquid Glass",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Liquid.Glass.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Liquid.Glass.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -1837,7 +1837,7 @@
   },
   {
     "name": "Luo Xiaohei",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Luo.Xiaohei.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Luo.Xiaohei.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1849,7 +1849,7 @@
   },
   {
     "name": "Lyxodius Dark Black",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Lyxodius.Dark.Black.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Lyxodius.Dark.Black.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1861,7 +1861,7 @@
   },
   {
     "name": "Lyxodius Dark Blue",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Lyxodius.Dark.Blue.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Lyxodius.Dark.Blue.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1873,7 +1873,7 @@
   },
   {
     "name": "Lyxodius Dark Grey",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Lyxodius.Dark.Grey.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Lyxodius.Dark.Grey.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1885,7 +1885,7 @@
   },
   {
     "name": "Majora",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Majora.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Majora.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1897,7 +1897,7 @@
   },
   {
     "name": "Marbles",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Marbles.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Marbles.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1909,7 +1909,7 @@
   },
   {
     "name": "mario",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/mario.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/mario.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1921,7 +1921,7 @@
   },
   {
     "name": "Mario and Friends",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Mario.and.Friends.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Mario.and.Friends.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1933,7 +1933,7 @@
   },
   {
     "name": "Mario Luigi - LEpopee Fraternelle",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Mario.Luigi.-.LEpopee.Fraternelle.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Mario.Luigi.-.LEpopee.Fraternelle.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1945,7 +1945,7 @@
   },
   {
     "name": "Marvel",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Marvel.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Marvel.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1957,7 +1957,7 @@
   },
   {
     "name": "Material Like - Cyan",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Material.Like.-.Cyan.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Material.Like.-.Cyan.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1969,7 +1969,7 @@
   },
   {
     "name": "Material Like - Green",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Material.Like.-.Green.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Material.Like.-.Green.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1981,7 +1981,7 @@
   },
   {
     "name": "Material Like - Indigo",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Material.Like.-.Indigo.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Material.Like.-.Indigo.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -1993,7 +1993,7 @@
   },
   {
     "name": "Material Like - Mustard",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Material.Like.-.Mustard.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Material.Like.-.Mustard.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2005,7 +2005,7 @@
   },
   {
     "name": "Material Like - Pink",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Material.Like.-.Pink.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Material.Like.-.Pink.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2017,7 +2017,7 @@
   },
   {
     "name": "McUnhinged",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/McUnhinged.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/McUnhinged.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2029,7 +2029,7 @@
   },
   {
     "name": "MegaMan",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MegaMan.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MegaMan.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2041,7 +2041,7 @@
   },
   {
     "name": "Megaman Battle Network",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Megaman.Battle.Network.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Megaman.Battle.Network.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2053,7 +2053,7 @@
   },
   {
     "name": "Megaman Zero",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Megaman.Zero.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Megaman.Zero.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2065,7 +2065,7 @@
   },
   {
     "name": "Megaman Zero X",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Megaman.Zero.X.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Megaman.Zero.X.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2077,7 +2077,7 @@
   },
   {
     "name": "migu",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/migu.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/migu.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2089,7 +2089,7 @@
   },
   {
     "name": "mini grid",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/mini.grid.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/mini.grid.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2101,7 +2101,7 @@
   },
   {
     "name": "Mini Play",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Mini.Play.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Mini.Play.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2113,7 +2113,7 @@
   },
   {
     "name": "Minimal Round Grid",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Minimal.Round.Grid.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Minimal.Round.Grid.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2125,7 +2125,7 @@
   },
   {
     "name": "Minimal Round Grid Amethyst",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Minimal.Round.Grid.Amethyst.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Minimal.Round.Grid.Amethyst.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2137,7 +2137,7 @@
   },
   {
     "name": "Minimal Round Grid Cherry",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Minimal.Round.Grid.Cherry.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Minimal.Round.Grid.Cherry.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2149,7 +2149,7 @@
   },
   {
     "name": "Minimal Round Grid Dark Cherry",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Minimal.Round.Grid.Dark.Cherry.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Minimal.Round.Grid.Dark.Cherry.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2161,7 +2161,7 @@
   },
   {
     "name": "Minimal Round Grid Emerald",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Minimal.Round.Grid.Emerald.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Minimal.Round.Grid.Emerald.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2173,7 +2173,7 @@
   },
   {
     "name": "Minimal Round Grid Lime",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Minimal.Round.Grid.Lime.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Minimal.Round.Grid.Lime.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2185,7 +2185,7 @@
   },
   {
     "name": "Minimal Round Grid Metal",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Minimal.Round.Grid.Metal.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Minimal.Round.Grid.Metal.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2197,7 +2197,7 @@
   },
   {
     "name": "Minimal Round Grid Night",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Minimal.Round.Grid.Night.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Minimal.Round.Grid.Night.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2209,7 +2209,7 @@
   },
   {
     "name": "Minimal Round Grid Ocean",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Minimal.Round.Grid.Ocean.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Minimal.Round.Grid.Ocean.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2221,7 +2221,7 @@
   },
   {
     "name": "Minimal Round Grid Summer",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Minimal.Round.Grid.Summer.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Minimal.Round.Grid.Summer.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2233,7 +2233,7 @@
   },
   {
     "name": "MiniUI muOS Chronoss v1",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MiniUI.muOS.Chronoss.v1.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MiniUI.muOS.Chronoss.v1.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2245,7 +2245,7 @@
   },
   {
     "name": "MiniUI muOS Chronoss v2",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MiniUI.muOS.Chronoss.v2.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MiniUI.muOS.Chronoss.v2.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2257,7 +2257,7 @@
   },
   {
     "name": "MinUIfied - Horizontal",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MinUIfied.-.Horizontal.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MinUIfied.-.Horizontal.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2269,7 +2269,7 @@
   },
   {
     "name": "MinUIfied - Horizontal-Alt",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MinUIfied.-.Horizontal-Alt.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MinUIfied.-.Horizontal-Alt.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2281,7 +2281,7 @@
   },
   {
     "name": "MinUIfied - Vertical",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MinUIfied.-.Vertical.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MinUIfied.-.Vertical.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2293,7 +2293,7 @@
   },
   {
     "name": "mu-rder-OS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/mu-rder-OS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/mu-rder-OS.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2305,7 +2305,7 @@
   },
   {
     "name": "mu98",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/mu98.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/mu98.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2317,7 +2317,7 @@
   },
   {
     "name": "mubiOS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/mubiOS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/mubiOS.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2329,7 +2329,7 @@
   },
   {
     "name": "MuBuntu",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MuBuntu.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MuBuntu.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2341,7 +2341,7 @@
   },
   {
     "name": "muDeck",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muDeck.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muDeck.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2353,7 +2353,7 @@
   },
   {
     "name": "muDS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muDS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muDS.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": false,
@@ -2365,7 +2365,7 @@
   },
   {
     "name": "muDS Dark",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muDS.Dark.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muDS.Dark.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": false,
@@ -2377,7 +2377,7 @@
   },
   {
     "name": "mugar",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/mugar.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/mugar.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2389,7 +2389,7 @@
   },
   {
     "name": "MuGB",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MuGB.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MuGB.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2401,7 +2401,7 @@
   },
   {
     "name": "muLCARS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muLCARS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muLCARS.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2413,7 +2413,7 @@
   },
   {
     "name": "muOS - Banana",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.-.Banana.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOS.-.Banana.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2425,7 +2425,7 @@
   },
   {
     "name": "muOS - Banana-Cyan",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.-.Banana-Cyan.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOS.-.Banana-Cyan.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2437,7 +2437,7 @@
   },
   {
     "name": "muOS - Beans",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.-.Beans.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOS.-.Beans.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2449,7 +2449,7 @@
   },
   {
     "name": "muOS - Classic",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.-.Classic.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOS.-.Classic.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2461,7 +2461,7 @@
   },
   {
     "name": "muOS - Classic Mono",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.-.Classic.Mono.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOS.-.Classic.Mono.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2473,7 +2473,7 @@
   },
   {
     "name": "muOS - Concise",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.-.Concise.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOS.-.Concise.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2485,7 +2485,7 @@
   },
   {
     "name": "muOS - Concise-Purple",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.-.Concise-Purple.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOS.-.Concise-Purple.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2497,7 +2497,7 @@
   },
   {
     "name": "muOS - Horizontal",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.-.Horizontal.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOS.-.Horizontal.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2509,7 +2509,7 @@
   },
   {
     "name": "muOS - Mup",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.-.Mup.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOS.-.Mup.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2521,7 +2521,7 @@
   },
   {
     "name": "muOS - NeXT",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.-.NeXT.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOS.-.NeXT.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2533,7 +2533,7 @@
   },
   {
     "name": "muOS - Pixels",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.-.Pixels.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOS.-.Pixels.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2545,7 +2545,7 @@
   },
   {
     "name": "MuOS Advance Pixie",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MuOS.Advance.Pixie.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MuOS.Advance.Pixie.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2557,7 +2557,7 @@
   },
   {
     "name": "muOS Banana - blue",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.Banana.-.blue.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOS.Banana.-.blue.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": true,
@@ -2569,7 +2569,7 @@
   },
   {
     "name": "Muos Console Grid",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Muos.Console.Grid.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Muos.Console.Grid.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2581,7 +2581,7 @@
   },
   {
     "name": "MuOS GameBoy 2",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MuOS.GameBoy.2.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MuOS.GameBoy.2.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2593,7 +2593,7 @@
   },
   {
     "name": "MuOS Mario Banana",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MuOS.Mario.Banana.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MuOS.Mario.Banana.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2605,7 +2605,7 @@
   },
   {
     "name": "muOS Monochrome",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.Monochrome.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOS.Monochrome.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2617,7 +2617,7 @@
   },
   {
     "name": "muOS Monochrome - DMG",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.Monochrome.-.DMG.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOS.Monochrome.-.DMG.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2629,7 +2629,7 @@
   },
   {
     "name": "muOS Monochrome - orange",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.Monochrome.-.orange.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOS.Monochrome.-.orange.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -2641,7 +2641,7 @@
   },
   {
     "name": "MuOS Nord",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MuOS.Nord.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MuOS.Nord.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": true,
@@ -2653,7 +2653,7 @@
   },
   {
     "name": "MuOS Peach",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MuOS.Peach.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MuOS.Peach.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2665,7 +2665,7 @@
   },
   {
     "name": "MuOS SNES Banana 1",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MuOS.SNES.Banana.1.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MuOS.SNES.Banana.1.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2677,7 +2677,7 @@
   },
   {
     "name": "MuOS SNES Banana 2",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MuOS.SNES.Banana.2.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MuOS.SNES.Banana.2.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2689,7 +2689,7 @@
   },
   {
     "name": "MuOS SNES Banana 3",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MuOS.SNES.Banana.3.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MuOS.SNES.Banana.3.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2701,7 +2701,7 @@
   },
   {
     "name": "muOS Valley",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.Valley.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOS.Valley.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2713,7 +2713,7 @@
   },
   {
     "name": "MuOS Wario 1",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MuOS.Wario.1.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MuOS.Wario.1.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2725,7 +2725,7 @@
   },
   {
     "name": "MuOS Wario 2",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MuOS.Wario.2.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MuOS.Wario.2.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2737,7 +2737,7 @@
   },
   {
     "name": "MuOS Wario 3",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MuOS.Wario.3.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MuOS.Wario.3.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2749,7 +2749,7 @@
   },
   {
     "name": "muOS X - Mountain Lion",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.X.-.Mountain.Lion.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOS.X.-.Mountain.Lion.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2761,7 +2761,7 @@
   },
   {
     "name": "MuOS Yoshi",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MuOS.Yoshi.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MuOS.Yoshi.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2773,7 +2773,7 @@
   },
   {
     "name": "muOS.Sonic.2",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS.Sonic.2.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOS.Sonic.2.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2785,7 +2785,7 @@
   },
   {
     "name": "muOScraft",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOScraft.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOScraft.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2797,7 +2797,7 @@
   },
   {
     "name": "muOScraft - RUS_ver",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOScraft.-.RUS_ver.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOScraft.-.RUS_ver.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2809,7 +2809,7 @@
   },
   {
     "name": "muOSWin3.1",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOSWin3.1.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOSWin3.1.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2821,7 +2821,7 @@
   },
   {
     "name": "muOS_Terminal",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muOS_Terminal.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muOS_Terminal.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2833,7 +2833,7 @@
   },
   {
     "name": "mushtube",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/mushtube.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/mushtube.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2845,7 +2845,7 @@
   },
   {
     "name": "MustardDex - Bayleef",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Bayleef.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Bayleef.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2857,7 +2857,7 @@
   },
   {
     "name": "MustardDex - Blastoise",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Blastoise.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Blastoise.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2869,7 +2869,7 @@
   },
   {
     "name": "MustardDex - Blaziken",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Blaziken.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Blaziken.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2881,7 +2881,7 @@
   },
   {
     "name": "MustardDex - Bulbasaur",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Bulbasaur.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Bulbasaur.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2893,7 +2893,7 @@
   },
   {
     "name": "MustardDex - Charizard",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Charizard.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Charizard.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2905,7 +2905,7 @@
   },
   {
     "name": "MustardDex - Charmander",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Charmander.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Charmander.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2917,7 +2917,7 @@
   },
   {
     "name": "MustardDex - Charmeleon",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Charmeleon.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Charmeleon.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2929,7 +2929,7 @@
   },
   {
     "name": "MustardDex - Chikorita",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Chikorita.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Chikorita.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2941,7 +2941,7 @@
   },
   {
     "name": "MustardDex - Combusken",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Combusken.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Combusken.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2953,7 +2953,7 @@
   },
   {
     "name": "MustardDex - Crobat",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Crobat.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Crobat.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2965,7 +2965,7 @@
   },
   {
     "name": "MustardDex - Croconaw",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Croconaw.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Croconaw.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2977,7 +2977,7 @@
   },
   {
     "name": "MustardDex - Cyndaquil",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Cyndaquil.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Cyndaquil.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -2989,7 +2989,7 @@
   },
   {
     "name": "MustardDex - Eevee",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Eevee.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Eevee.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3001,7 +3001,7 @@
   },
   {
     "name": "MustardDex - Espeon",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Espeon.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Espeon.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3013,7 +3013,7 @@
   },
   {
     "name": "MustardDex - Feraligatr",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Feraligatr.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Feraligatr.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3025,7 +3025,7 @@
   },
   {
     "name": "MustardDex - Flareon",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Flareon.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Flareon.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3037,7 +3037,7 @@
   },
   {
     "name": "MustardDex - Gastly",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Gastly.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Gastly.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3049,7 +3049,7 @@
   },
   {
     "name": "MustardDex - Gengar",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Gengar.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Gengar.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3061,7 +3061,7 @@
   },
   {
     "name": "MustardDex - Glaceon",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Glaceon.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Glaceon.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3073,7 +3073,7 @@
   },
   {
     "name": "MustardDex - Golbat",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Golbat.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Golbat.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3085,7 +3085,7 @@
   },
   {
     "name": "MustardDex - Grovyle",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Grovyle.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Grovyle.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3097,7 +3097,7 @@
   },
   {
     "name": "MustardDex - Haunter",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Haunter.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Haunter.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3109,7 +3109,7 @@
   },
   {
     "name": "MustardDex - Ivysaur",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Ivysaur.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Ivysaur.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3121,7 +3121,7 @@
   },
   {
     "name": "MustardDex - Jolteon",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Jolteon.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Jolteon.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3133,7 +3133,7 @@
   },
   {
     "name": "MustardDex - Leafeon",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Leafeon.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Leafeon.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3145,7 +3145,7 @@
   },
   {
     "name": "MustardDex - Marshtomp",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Marshtomp.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Marshtomp.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3157,7 +3157,7 @@
   },
   {
     "name": "MustardDex - Meganium",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Meganium.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Meganium.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3169,7 +3169,7 @@
   },
   {
     "name": "MustardDex - Mudkip",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Mudkip.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Mudkip.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3181,7 +3181,7 @@
   },
   {
     "name": "MustardDex - Pichu",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Pichu.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Pichu.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3193,7 +3193,7 @@
   },
   {
     "name": "MustardDex - Pikachu",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Pikachu.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Pikachu.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3205,7 +3205,7 @@
   },
   {
     "name": "MustardDex - Quilava",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Quilava.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Quilava.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3217,7 +3217,7 @@
   },
   {
     "name": "MustardDex - Raichu",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Raichu.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Raichu.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3229,7 +3229,7 @@
   },
   {
     "name": "MustardDex - Sceptile",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Sceptile.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Sceptile.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3241,7 +3241,7 @@
   },
   {
     "name": "MustardDex - Squirtle",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Squirtle.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Squirtle.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3253,7 +3253,7 @@
   },
   {
     "name": "MustardDex - Swampert",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Swampert.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Swampert.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3265,7 +3265,7 @@
   },
   {
     "name": "MustardDex - Torchic",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Torchic.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Torchic.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3277,7 +3277,7 @@
   },
   {
     "name": "MustardDex - Totodile",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Totodile.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Totodile.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3289,7 +3289,7 @@
   },
   {
     "name": "MustardDex - Treecko",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Treecko.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Treecko.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3301,7 +3301,7 @@
   },
   {
     "name": "MustardDex - Typhlosion",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Typhlosion.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Typhlosion.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3313,7 +3313,7 @@
   },
   {
     "name": "MustardDex - Umbreon",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Umbreon.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Umbreon.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3325,7 +3325,7 @@
   },
   {
     "name": "MustardDex - Vaporeon",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Vaporeon.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Vaporeon.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3337,7 +3337,7 @@
   },
   {
     "name": "MustardDex - Venusaur",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Venusaur.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Venusaur.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3349,7 +3349,7 @@
   },
   {
     "name": "MustardDex - Wartortle",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Wartortle.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Wartortle.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3361,7 +3361,7 @@
   },
   {
     "name": "MustardDex - Zubat",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardDex.-.Zubat.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardDex.-.Zubat.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3373,7 +3373,7 @@
   },
   {
     "name": "MustardFighter",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardFighter.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardFighter.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3385,7 +3385,7 @@
   },
   {
     "name": "MustardOS-Grid",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardOS-Grid.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardOS-Grid.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -3397,7 +3397,7 @@
   },
   {
     "name": "MustardOS-Grid-Alt",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardOS-Grid-Alt.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardOS-Grid-Alt.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -3409,7 +3409,7 @@
   },
   {
     "name": "MustardOS-Grid-Carousel",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardOS-Grid-Carousel.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardOS-Grid-Carousel.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -3421,7 +3421,7 @@
   },
   {
     "name": "MustardOS-Grid-Carousel-2",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardOS-Grid-Carousel-2.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardOS-Grid-Carousel-2.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -3433,7 +3433,7 @@
   },
   {
     "name": "MustardOS-Grid-ES-Theme",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardOS-Grid-ES-Theme.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardOS-Grid-ES-Theme.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -3445,7 +3445,7 @@
   },
   {
     "name": "MustardOS-Grid-ES-Theme-Alt",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardOS-Grid-ES-Theme-Alt.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardOS-Grid-ES-Theme-Alt.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -3457,7 +3457,7 @@
   },
   {
     "name": "MustardOS-Grid-ES-Theme-Alt-2",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MustardOS-Grid-ES-Theme-Alt-2.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MustardOS-Grid-ES-Theme-Alt-2.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -3469,7 +3469,7 @@
   },
   {
     "name": "muVB",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muVB.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muVB.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -3481,7 +3481,7 @@
   },
   {
     "name": "Muvbox Dark",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Muvbox.Dark.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Muvbox.Dark.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": true,
@@ -3493,7 +3493,7 @@
   },
   {
     "name": "muXbox",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muXbox.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muXbox.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3505,7 +3505,7 @@
   },
   {
     "name": "muXbox Dark",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muXbox.Dark.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muXbox.Dark.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3517,7 +3517,7 @@
   },
   {
     "name": "muXP",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/muXP.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/muXP.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": false,
@@ -3529,7 +3529,7 @@
   },
   {
     "name": "MuxRemix-Core",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MuxRemix-Core.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MuxRemix-Core.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -3541,7 +3541,7 @@
   },
   {
     "name": "MuxRemix-Grid",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/MuxRemix-Grid.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/MuxRemix-Grid.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -3553,7 +3553,7 @@
   },
   {
     "name": "NES muOS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/NES.muOS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/NES.muOS.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3565,7 +3565,7 @@
   },
   {
     "name": "New Classic",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/New.Classic.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/New.Classic.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3577,7 +3577,7 @@
   },
   {
     "name": "Nokia",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Nokia.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Nokia.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3589,7 +3589,7 @@
   },
   {
     "name": "Nook Phone",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Nook.Phone.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Nook.Phone.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3601,7 +3601,7 @@
   },
   {
     "name": "Ntheme",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Ntheme.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Ntheme.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3613,7 +3613,7 @@
   },
   {
     "name": "Ntheme RusEdition",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Ntheme.RusEdition.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Ntheme.RusEdition.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3625,7 +3625,7 @@
   },
   {
     "name": "nxOS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/nxOS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/nxOS.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3637,7 +3637,7 @@
   },
   {
     "name": "Old JohtOS - Gold",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Old.JohtOS.-.Gold.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Old.JohtOS.-.Gold.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3649,7 +3649,7 @@
   },
   {
     "name": "Old JohtOS - Kris",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Old.JohtOS.-.Kris.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Old.JohtOS.-.Kris.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3661,7 +3661,7 @@
   },
   {
     "name": "One Piece",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/One.Piece.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/One.Piece.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3673,7 +3673,7 @@
   },
   {
     "name": "OneTwo",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/OneTwo.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/OneTwo.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -3685,7 +3685,7 @@
   },
   {
     "name": "Orange",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Orange.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Orange.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -3697,7 +3697,7 @@
   },
   {
     "name": "Ordinateur banane",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Ordinateur.banane.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Ordinateur.banane.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3709,7 +3709,7 @@
   },
   {
     "name": "Ordinateur grille",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Ordinateur.grille.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Ordinateur.grille.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3721,7 +3721,7 @@
   },
   {
     "name": "Ordinateur sci-fi",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Ordinateur.sci-fi.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Ordinateur.sci-fi.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3733,7 +3733,7 @@
   },
   {
     "name": "Ornata",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Ornata.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Ornata.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3745,7 +3745,7 @@
   },
   {
     "name": "Peckish Jills",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Peckish.Jills.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Peckish.Jills.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3757,7 +3757,7 @@
   },
   {
     "name": "Persona 4",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Persona.4.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Persona.4.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3769,7 +3769,7 @@
   },
   {
     "name": "Pikachu - SP",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Pikachu.-.SP.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Pikachu.-.SP.muxthm",
     "resolution640x480": false,
     "resolution720x480": true,
     "resolution720x720": false,
@@ -3781,7 +3781,7 @@
   },
   {
     "name": "Pip-Boy",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Pip-Boy.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Pip-Boy.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3793,7 +3793,7 @@
   },
   {
     "name": "Pip-Boy Frameless",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Pip-Boy.Frameless.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Pip-Boy.Frameless.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3805,7 +3805,7 @@
   },
   {
     "name": "pipboy",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/pipboy.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/pipboy.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3817,7 +3817,7 @@
   },
   {
     "name": "pipboy-tube",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/pipboy-tube.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/pipboy-tube.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3829,7 +3829,7 @@
   },
   {
     "name": "Pixel World v2",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Pixel.World.v2.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Pixel.World.v2.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3841,7 +3841,7 @@
   },
   {
     "name": "Plexus",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Plexus.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Plexus.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": true,
@@ -3853,7 +3853,7 @@
   },
   {
     "name": "Pokemon Lets Go Pikachu",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Pokemon.Lets.Go.Pikachu.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Pokemon.Lets.Go.Pikachu.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3865,7 +3865,7 @@
   },
   {
     "name": "Pokemon World",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Pokemon.World.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Pokemon.World.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3877,7 +3877,7 @@
   },
   {
     "name": "PokeNav",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/PokeNav.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/PokeNav.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3889,7 +3889,7 @@
   },
   {
     "name": "POP - Battle Network Blue",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/POP.-.Battle.Network.Blue.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/POP.-.Battle.Network.Blue.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3901,7 +3901,7 @@
   },
   {
     "name": "POP - Gandalf Grey",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/POP.-.Gandalf.Grey.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/POP.-.Gandalf.Grey.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3913,7 +3913,7 @@
   },
   {
     "name": "POP - Not A Phase Black",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/POP.-.Not.A.Phase.Black.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/POP.-.Not.A.Phase.Black.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3925,7 +3925,7 @@
   },
   {
     "name": "POP - Orange Cream",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/POP.-.Orange.Cream.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/POP.-.Orange.Cream.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3937,7 +3937,7 @@
   },
   {
     "name": "POP - Particularly Pink",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/POP.-.Particularly.Pink.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/POP.-.Particularly.Pink.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3949,7 +3949,7 @@
   },
   {
     "name": "POP - Taro Purple",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/POP.-.Taro.Purple.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/POP.-.Taro.Purple.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3961,7 +3961,7 @@
   },
   {
     "name": "Popeye ZHCN",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Popeye.ZHCN.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Popeye.ZHCN.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3973,7 +3973,7 @@
   },
   {
     "name": "PS Aqua",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/PS.Aqua.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/PS.Aqua.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3985,7 +3985,7 @@
   },
   {
     "name": "PS Black",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/PS.Black.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/PS.Black.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -3997,7 +3997,7 @@
   },
   {
     "name": "PS Blue",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/PS.Blue.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/PS.Blue.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4009,7 +4009,7 @@
   },
   {
     "name": "PS Bronze",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/PS.Bronze.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/PS.Bronze.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4021,7 +4021,7 @@
   },
   {
     "name": "PS Candy",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/PS.Candy.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/PS.Candy.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4033,7 +4033,7 @@
   },
   {
     "name": "PS Gold",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/PS.Gold.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/PS.Gold.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4045,7 +4045,7 @@
   },
   {
     "name": "PS Green",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/PS.Green.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/PS.Green.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4057,7 +4057,7 @@
   },
   {
     "name": "PS Grey",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/PS.Grey.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/PS.Grey.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4069,7 +4069,7 @@
   },
   {
     "name": "PS Orange",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/PS.Orange.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/PS.Orange.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4081,7 +4081,7 @@
   },
   {
     "name": "PS Purple",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/PS.Purple.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/PS.Purple.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4093,7 +4093,7 @@
   },
   {
     "name": "PS Red",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/PS.Red.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/PS.Red.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4105,7 +4105,7 @@
   },
   {
     "name": "PS Silver",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/PS.Silver.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/PS.Silver.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4117,7 +4117,7 @@
   },
   {
     "name": "PS Violet",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/PS.Violet.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/PS.Violet.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4129,7 +4129,7 @@
   },
   {
     "name": "Purple Night",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Purple.Night.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Purple.Night.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4141,7 +4141,7 @@
   },
   {
     "name": "QuiK Dark",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/QuiK.Dark.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/QuiK.Dark.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4153,7 +4153,7 @@
   },
   {
     "name": "Reflections",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Reflections.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Reflections.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4165,7 +4165,7 @@
   },
   {
     "name": "Retro Glow Blue",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Retro.Glow.Blue.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Retro.Glow.Blue.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4177,7 +4177,7 @@
   },
   {
     "name": "Retro Glow Classic",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Retro.Glow.Classic.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Retro.Glow.Classic.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4189,7 +4189,7 @@
   },
   {
     "name": "Retro Glow Green",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Retro.Glow.Green.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Retro.Glow.Green.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4201,7 +4201,7 @@
   },
   {
     "name": "Retro Glow Light Blue",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Retro.Glow.Light.Blue.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Retro.Glow.Light.Blue.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4213,7 +4213,7 @@
   },
   {
     "name": "Retro Glow Pink",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Retro.Glow.Pink.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Retro.Glow.Pink.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4225,7 +4225,7 @@
   },
   {
     "name": "Retro Glow Red",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Retro.Glow.Red.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Retro.Glow.Red.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4237,7 +4237,7 @@
   },
   {
     "name": "Retro Glow Yellow",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Retro.Glow.Yellow.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Retro.Glow.Yellow.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4249,7 +4249,7 @@
   },
   {
     "name": "RetroComic",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/RetroComic.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/RetroComic.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4261,7 +4261,7 @@
   },
   {
     "name": "rgui - Dark",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/rgui.-.Dark.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/rgui.-.Dark.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4273,7 +4273,7 @@
   },
   {
     "name": "round",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/round.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/round.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -4285,7 +4285,7 @@
   },
   {
     "name": "Royal CriMUson",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Royal.CriMUson.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Royal.CriMUson.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4297,7 +4297,7 @@
   },
   {
     "name": "Royal Dark MU",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Royal.Dark.MU.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Royal.Dark.MU.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4309,7 +4309,7 @@
   },
   {
     "name": "Royal MU",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Royal.MU.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Royal.MU.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4321,7 +4321,7 @@
   },
   {
     "name": "Royal MU Blue",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Royal.MU.Blue.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Royal.MU.Blue.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4333,7 +4333,7 @@
   },
   {
     "name": "Royal MU Noir",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Royal.MU.Noir.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Royal.MU.Noir.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4345,7 +4345,7 @@
   },
   {
     "name": "Royal Orange MU",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Royal.Orange.MU.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Royal.Orange.MU.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4357,7 +4357,7 @@
   },
   {
     "name": "Rusty \u0026 Sox - Blue",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Rusty.Sox.-.Blue.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Rusty.Sox.-.Blue.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4369,7 +4369,7 @@
   },
   {
     "name": "Rusty \u0026 Sox - Green",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Rusty.Sox.-.Green.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Rusty.Sox.-.Green.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4381,7 +4381,7 @@
   },
   {
     "name": "Rusty \u0026 Sox - Orange",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Rusty.Sox.-.Orange.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Rusty.Sox.-.Orange.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4393,7 +4393,7 @@
   },
   {
     "name": "Rusty \u0026 Sox - Pink",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Rusty.Sox.-.Pink.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Rusty.Sox.-.Pink.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4405,7 +4405,7 @@
   },
   {
     "name": "Rusty \u0026 Sox - Purple",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Rusty.Sox.-.Purple.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Rusty.Sox.-.Purple.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4417,7 +4417,7 @@
   },
   {
     "name": "Rusty \u0026 Sox - Red",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Rusty.Sox.-.Red.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Rusty.Sox.-.Red.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4429,7 +4429,7 @@
   },
   {
     "name": "Rusty \u0026 Sox - White",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Rusty.Sox.-.White.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Rusty.Sox.-.White.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4441,7 +4441,7 @@
   },
   {
     "name": "SA2",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/SA2.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/SA2.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4453,7 +4453,7 @@
   },
   {
     "name": "SayOS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/SayOS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/SayOS.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4465,7 +4465,7 @@
   },
   {
     "name": "ScreenLight - Neon Glass (Complete)",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/ScreenLight.-.Neon.Glass.Complete.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/ScreenLight.-.Neon.Glass.Complete.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4477,7 +4477,7 @@
   },
   {
     "name": "sharp_muOS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/sharp_muOS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/sharp_muOS.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4489,7 +4489,7 @@
   },
   {
     "name": "Sheikah Slate",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Sheikah.Slate.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Sheikah.Slate.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4501,7 +4501,7 @@
   },
   {
     "name": "Shindows 0.2",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Shindows.0.2.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Shindows.0.2.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4513,7 +4513,7 @@
   },
   {
     "name": "Sinapis Light",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Sinapis.Light.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Sinapis.Light.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4525,7 +4525,7 @@
   },
   {
     "name": "SMBW OS Theme",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/SMBW.OS.Theme.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/SMBW.OS.Theme.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4537,7 +4537,7 @@
   },
   {
     "name": "SNES Station Theme",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/SNES.Station.Theme.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/SNES.Station.Theme.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4549,7 +4549,7 @@
   },
   {
     "name": "Sonic",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Sonic.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Sonic.muxthm",
     "resolution640x480": false,
     "resolution720x480": true,
     "resolution720x720": false,
@@ -4561,7 +4561,7 @@
   },
   {
     "name": "Sonic-Horizontal",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Sonic-Horizontal.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Sonic-Horizontal.muxthm",
     "resolution640x480": false,
     "resolution720x480": true,
     "resolution720x720": false,
@@ -4573,7 +4573,7 @@
   },
   {
     "name": "SonicMegaCollection",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/SonicMegaCollection.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/SonicMegaCollection.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4585,7 +4585,7 @@
   },
   {
     "name": "SOTN",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/SOTN.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/SOTN.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4597,7 +4597,7 @@
   },
   {
     "name": "SSBM v3",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/SSBM.v3.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/SSBM.v3.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4609,7 +4609,7 @@
   },
   {
     "name": "StageSelect",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/StageSelect.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/StageSelect.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4621,7 +4621,7 @@
   },
   {
     "name": "Street Fighter",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Street.Fighter.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Street.Fighter.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4633,7 +4633,7 @@
   },
   {
     "name": "Switch",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Switch.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Switch.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4645,7 +4645,7 @@
   },
   {
     "name": "Switch muOS Dark Mode H",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Switch.muOS.Dark.Mode.H.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Switch.muOS.Dark.Mode.H.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4657,7 +4657,7 @@
   },
   {
     "name": "Switch muOS Dark Mode Plus",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Switch.muOS.Dark.Mode.Plus.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Switch.muOS.Dark.Mode.Plus.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4669,7 +4669,7 @@
   },
   {
     "name": "TakanakaOS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/TakanakaOS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/TakanakaOS.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4681,7 +4681,7 @@
   },
   {
     "name": "Tang-o-radient",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Tang-o-radient.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Tang-o-radient.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4693,7 +4693,7 @@
   },
   {
     "name": "Tang-o-roundient A",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Tang-o-roundient.A.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Tang-o-roundient.A.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4705,7 +4705,7 @@
   },
   {
     "name": "Tang-o-roundient B",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Tang-o-roundient.B.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Tang-o-roundient.B.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4717,7 +4717,7 @@
   },
   {
     "name": "TechDweeb",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/TechDweeb.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/TechDweeb.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4729,7 +4729,7 @@
   },
   {
     "name": "Terminal",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Terminal.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Terminal.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4741,7 +4741,7 @@
   },
   {
     "name": "Terminal - Redacted",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Terminal.-.Redacted.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Terminal.-.Redacted.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -4753,7 +4753,7 @@
   },
   {
     "name": "The Beginning of the End",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/The.Beginning.of.the.End.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/The.Beginning.of.the.End.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4765,7 +4765,7 @@
   },
   {
     "name": "The Witcher 3 Animated",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/The.Witcher.3.Animated.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/The.Witcher.3.Animated.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4777,7 +4777,7 @@
   },
   {
     "name": "The Witcher 3 Static",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/The.Witcher.3.Static.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/The.Witcher.3.Static.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4789,7 +4789,7 @@
   },
   {
     "name": "TilesV1",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/TilesV1.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/TilesV1.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4801,7 +4801,7 @@
   },
   {
     "name": "TokyoNightOS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/TokyoNightOS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/TokyoNightOS.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4813,7 +4813,7 @@
   },
   {
     "name": "TriMuOS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/TriMuOS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/TriMuOS.muxthm",
     "resolution640x480": false,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4825,7 +4825,7 @@
   },
   {
     "name": "Turtles",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Turtles.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Turtles.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4837,7 +4837,7 @@
   },
   {
     "name": "Untitled Goose GameOS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Untitled.Goose.GameOS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Untitled.Goose.GameOS.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -4849,7 +4849,7 @@
   },
   {
     "name": "Vaguely Pixelated",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Vaguely.Pixelated.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Vaguely.Pixelated.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4861,7 +4861,7 @@
   },
   {
     "name": "vcrOS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/vcrOS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/vcrOS.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4873,7 +4873,7 @@
   },
   {
     "name": "Verde Dark",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Verde.Dark.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Verde.Dark.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4885,7 +4885,7 @@
   },
   {
     "name": "Verde Light",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Verde.Light.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Verde.Light.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4897,7 +4897,7 @@
   },
   {
     "name": "Victoria Bitter",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Victoria.Bitter.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Victoria.Bitter.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4909,7 +4909,7 @@
   },
   {
     "name": "Vinesauce",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Vinesauce.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Vinesauce.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4921,7 +4921,7 @@
   },
   {
     "name": "Waveworn",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Waveworn.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Waveworn.muxthm",
     "resolution640x480": false,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4933,7 +4933,7 @@
   },
   {
     "name": "WhitexBlack",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/WhitexBlack.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/WhitexBlack.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4945,7 +4945,7 @@
   },
   {
     "name": "Wiitendo",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Wiitendo.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Wiitendo.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4957,7 +4957,7 @@
   },
   {
     "name": "Wiitendo Dark",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Wiitendo.Dark.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Wiitendo.Dark.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4969,7 +4969,7 @@
   },
   {
     "name": "Windows 95",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Windows.95.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Windows.95.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4981,7 +4981,7 @@
   },
   {
     "name": "Windows XP",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Windows.XP.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Windows.XP.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -4993,7 +4993,7 @@
   },
   {
     "name": "Xmas",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Xmas.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Xmas.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -5005,7 +5005,7 @@
   },
   {
     "name": "Ye Olde OS",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Ye.Olde.OS.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Ye.Olde.OS.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -5017,7 +5017,7 @@
   },
   {
     "name": "YoRHa Onion v1",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/YoRHa.Onion.v1.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/YoRHa.Onion.v1.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -5029,7 +5029,7 @@
   },
   {
     "name": "YoRHa Onion v2",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/YoRHa.Onion.v2.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/YoRHa.Onion.v2.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
@@ -5041,7 +5041,7 @@
   },
   {
     "name": "Zelda Minish Cap",
-    "url": "https://github.com/MustardOS/theme/releases/latest/download/Zelda.Minish.Cap.muxthm",
+    "url": "https://github.com/MustardOS/theme/releases/tag/2601.0_Jacaranda_Latest/Zelda.Minish.Cap.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
