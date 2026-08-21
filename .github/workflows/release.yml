@@ -36,84 +36,24 @@ jobs:
         run: |
           ls -1 /tmp/release
           
-      - name: Delete old releases (older than 3 months)
-        run: |
-          # Get latest release tag (never delete this one)
-          LATEST=$(gh release view --json tagName -q '.tagName')
-          echo "Latest release: $LATEST"
-
-          # Get releases older than 90 days
-          OLD_RELEASES=$(gh release list --limit 1000 --json name,tagName,createdAt -q \
-            '.[] | select((.createdAt | fromdateiso8601) < (now - (90*24*60*60))) | {tag: .tagName, name: .name}')
-
-          if [[ -n "$OLD_RELEASES" ]]; then
-            echo "$OLD_RELEASES" | while read -r release; do
-              tag=$(echo "$release" | jq -r '.tag')
-              name=$(echo "$release" | jq -r '.name')
-
-              # Skip if it's the latest release
-              if [[ "$tag" == "$LATEST" ]]; then
-                echo "Skipping latest release: $tag  $name"
-                continue
-              fi
-
-              # Skip if last Goose release
-              if [[ "$name" == "Goose Themes Final Release" ]]; then
-                echo "Name Match, Skipping last Goose release: $tag  $name"
-                continue
-              fi
-
-              # Skip if last Pixie release
-              if [[ "$name" == "Pixie Themes Final Release" ]]; then
-                echo "Name Match, Skipping last Pixie release: $tag  $name"
-                continue
-              fi
-
-              # Skip if it's the latest release
-              if [[ "$tag" == "2025-08-23_1523" ]]; then
-                echo "Tag Match, Skipping last Pixie release: $tag  $name"
-                continue
-              fi
-
-              # Otherwise delete it
-              echo "Deleting release: $tag  $name"
-              gh release delete "$tag" -y
-            done
-          else
-            echo "No releases older than cutoff found"
-          fi
+      - name: Update Current Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Get release name for artifacts
-        id: date
         run: |
-            echo "date=$(date +'%Y-%m-%d_%H%M')" >> $GITHUB_OUTPUT
+          STATIC_TAG="2601.0_Jacaranda_Latest"
 
-      - name: Prepare Release
-        uses: ncipollo/release-action@v1.14.0
-        with:
-          name: "2601.0 Jacaranda Themes"
-          tag: "2601.0_Jacaranda_${{steps.date.outputs.date}}"
-          allowUpdates: true
-          draft: true
-          prerelease: false
-          replacesArtifacts: false
-          omitNameDuringUpdate: true
-          artifacts: "/tmp/release/*.muxthm"
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # 1. If the static release exists, delete it to clear out the old commit reference
+          if gh release view "$STATIC_TAG" >/dev/null 2>&1; then
+            echo "Deleting old static release to update commit target..."
+            gh release delete "$STATIC_TAG" --cleanup-tag --yes
+          fi
 
-      - name: Publish Release
-        uses: ncipollo/release-action@v1.14.0
-        with:
-          name: "2601.0 Jacaranda Themes"
-          tag: "2601.0_Jacaranda_${{steps.date.outputs.date}}"
-          omitBodyDuringUpdate: true
-          omitNameDuringUpdate: true
-          allowUpdates: true
-          draft: false
-          prerelease: false
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # 2. Create a brand new static release directly on the newest commit hash
+          echo "Recreating static release on commit $GITHUB_SHA..."
+          gh release create "$STATIC_TAG" \
+            --target "$GITHUB_SHA" \
+            --title "2601.0 Jacaranda Themes Latest" \
+            /tmp/release/*.muxthm docs/theme_data.json docs/theme_catalogue.muxzip
 
       - name: Release Info
         id: info
