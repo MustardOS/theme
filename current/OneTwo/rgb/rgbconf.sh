@@ -1,1 +1,0 @@
-/opt/muos/script/device/rgb.sh 6 102 5

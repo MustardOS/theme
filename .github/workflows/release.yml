@@ -40,7 +40,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          STATIC_TAG="2601.0_Jacaranda_Latest"
+          STATIC_TAG="2606.0_Andromeda_Latest"
 
           # 1. If the static release exists, delete it to clear out the old commit reference
           if gh release view "$STATIC_TAG" >/dev/null 2>&1; then
@@ -52,7 +52,7 @@ jobs:
           echo "Recreating static release on commit $GITHUB_SHA..."
           gh release create "$STATIC_TAG" \
             --target "$GITHUB_SHA" \
-            --title "2601.0 Jacaranda Themes Latest" \
+            --title "2606.0 Andromeda Themes Latest" \
             /tmp/release/*.muxthm docs/theme_data.json docs/theme_catalogue.muxzip
 
       - name: Release Info
