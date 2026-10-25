@@ -720,6 +720,18 @@
     "language": false
   },
   {
+    "name": "EggOs",
+    "url": "https://github.com/MustardOS/theme/releases/download/2606.0_Andromeda_Latest/EggOs.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": false,
+    "resolution1280x720": true,
+    "grid": true,
+    "hdmi": true,
+    "language": true
+  },
+  {
     "name": "EmulationStation",
     "url": "https://github.com/MustardOS/theme/releases/download/2606.0_Andromeda_Latest/EmulationStation.muxthm",
     "resolution640x480": true,
@@ -1246,6 +1258,18 @@
     "grid": false,
     "hdmi": false,
     "language": true
+  },
+  {
+    "name": "Hatsune Miku",
+    "url": "https://github.com/MustardOS/theme/releases/download/2606.0_Andromeda_Latest/Hatsune.Miku.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": false,
+    "resolution1024x768": false,
+    "resolution1280x720": false,
+    "grid": false,
+    "hdmi": false,
+    "language": false
   },
   {
     "name": "Haze",
@@ -1829,6 +1853,18 @@
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
+    "resolution1024x768": false,
+    "resolution1280x720": false,
+    "grid": false,
+    "hdmi": false,
+    "language": false
+  },
+  {
+    "name": "Lord Of The Rings",
+    "url": "https://github.com/MustardOS/theme/releases/download/2606.0_Andromeda_Latest/Lord.Of.The.Rings.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": false,
+    "resolution720x720": false,
     "resolution1024x768": false,
     "resolution1280x720": false,
     "grid": false,
