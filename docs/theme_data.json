@@ -840,6 +840,18 @@
     "language": false
   },
   {
+    "name": "Fluent Blue",
+    "url": "https://github.com/MustardOS/theme/releases/download/2606.0_Andromeda_Latest/Fluent.Blue.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": true,
+    "hdmi": true,
+    "language": false
+  },
+  {
     "name": "Fluent Dark",
     "url": "https://github.com/MustardOS/theme/releases/download/2606.0_Andromeda_Latest/Fluent.Dark.muxthm",
     "resolution640x480": true,
@@ -854,6 +866,18 @@
   {
     "name": "Fluent Light",
     "url": "https://github.com/MustardOS/theme/releases/download/2606.0_Andromeda_Latest/Fluent.Light.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": true,
+    "resolution720x720": true,
+    "resolution1024x768": true,
+    "resolution1280x720": true,
+    "grid": true,
+    "hdmi": true,
+    "language": false
+  },
+  {
+    "name": "Fluent Mustard",
+    "url": "https://github.com/MustardOS/theme/releases/download/2606.0_Andromeda_Latest/Fluent.Mustard.muxthm",
     "resolution640x480": true,
     "resolution720x480": true,
     "resolution720x720": true,
@@ -5006,6 +5030,18 @@
   {
     "name": "Windows 95",
     "url": "https://github.com/MustardOS/theme/releases/download/2606.0_Andromeda_Latest/Windows.95.muxthm",
+    "resolution640x480": true,
+    "resolution720x480": false,
+    "resolution720x720": false,
+    "resolution1024x768": false,
+    "resolution1280x720": false,
+    "grid": false,
+    "hdmi": false,
+    "language": false
+  },
+  {
+    "name": "Windows NT 3.1",
+    "url": "https://github.com/MustardOS/theme/releases/download/2606.0_Andromeda_Latest/Windows.NT.3.1.muxthm",
     "resolution640x480": true,
     "resolution720x480": false,
     "resolution720x720": false,
