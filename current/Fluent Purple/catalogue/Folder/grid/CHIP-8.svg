@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="58.208332"
+   height="23.8125"
+   viewBox="-1.984375 -1.984375 58.208332 23.8125"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="CHIP-8.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0444209"
+     inkscape:cx="-84.735951"
+     inkscape:cy="-105.32152"
+     inkscape:window-width="58.208332"
+     inkscape:window-height="23.8125"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs2" /><g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(120.33967,-57.953732)"><path
+       style="fill:#000000;stroke-width:0.264583"
+       d="m -120.33967,67.875607 v -9.921875 h 5.29166 5.29167 v 0.661458 0.661459 h -4.63021 -4.63021 v 8.598958 8.598959 h 4.63021 4.63021 v 0.661458 0.661458 h -5.29167 -5.29166 z m 13.22916,0 v -9.921875 h 0.66146 0.66146 v 4.630208 4.630209 h 3.96875 3.968752 V 62.58394 57.953732 h 0.661458 0.661458 v 9.921875 9.921875 h -0.661458 -0.661458 v -4.630208 -4.630208 h -3.968752 -3.96875 v 4.630208 4.630208 h -0.66146 -0.66146 z m 13.229172,0 v -9.921875 h 0.661458 0.661459 v 9.921875 9.921875 h -0.661459 -0.661458 z m 3.96875,0 v -9.921875 h 5.291667 5.291667 v 5.291667 5.291667 h -4.630209 -4.630208 v 4.630208 4.630208 h -0.661459 -0.661458 z m 9.260417,-4.630208 v -3.96875 h -3.96875 -3.96875 v 3.96875 3.96875 h 3.96875 3.96875 z m 3.96875,4.630208 v -9.921875 h 5.291667 5.291667 v 9.921875 9.921875 h -5.291667 -5.291667 z m 9.260417,4.630209 v -3.96875 h -3.96875 -3.96875 v 3.96875 3.96875 h 3.96875 3.96875 z m 0,-9.260417 v -3.96875 h -3.96875 -3.96875 v 3.96875 3.96875 h 3.96875 3.96875 z"
+       id="path318" /></g></svg>
+
