@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 356.44141 356.44141"
+   version="1.1"
+   sodipodi:docname="x.svg"
+   width="356.44141"
+   height="356.44141"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.6191406"
+     inkscape:cx="53.423403"
+     inkscape:cy="179.10736"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:24px;}</style>
+  </defs>
+  <path
+     style="color:#000000;fill:#000000;stroke-width:0.902968;stroke-miterlimit:10;-inkscape-stroke:none"
+     d="m 178.2207,17.293125 c -88.749058,0 -160.927575,72.178517 -160.927575,160.927575 0,88.74906 72.178517,160.92758 160.927575,160.92758 88.74906,0 160.92758,-72.17852 160.92758,-160.92758 0,-88.749058 -72.17852,-160.927575 -160.92758,-160.927575 z m 0,21.671232 c 77.03708,0 139.25635,62.219263 139.25635,139.256343 0,77.03708 -62.21927,139.25635 -139.25635,139.25635 -77.03708,0 -139.256343,-62.21927 -139.256343,-139.25635 0,-77.03708 62.219263,-139.256343 139.256343,-139.256343 z"
+     id="circle6" />
+  <polygon
+     points="227.4,185.42 201.02,185.65 242.14,254.05 194.16,332.83 220.54,333.06 256.88,274.86 293.22,333.06 319.61,332.83 271.62,254.05 312.75,185.65 286.36,185.42 256.88,233.25 "
+     id="polygon8"
+     transform="matrix(0.90296792,0,0,0.90296792,-52.939086,-52.939086)" />
+</svg>
